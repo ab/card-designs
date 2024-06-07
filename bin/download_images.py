@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import logging
 import os
 import re
 import sys
@@ -15,6 +16,47 @@ yaml = YAML()
 SKIP_ERRORED = False
 
 
+class ColorFormatter(logging.Formatter):
+
+    def __init__(self, fmt: Optional[str] = None):
+        gray = "\x1b[90;1m"
+        yellow = "\x1b[93;1m"
+        red = "\x1b[91;1m"
+        reset = "\x1b[0m"
+
+        if not fmt:
+            fmt = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+        formats = {
+            logging.DEBUG: gray + fmt + reset,
+            logging.INFO: fmt,
+            logging.WARNING: yellow + fmt + reset,
+            logging.ERROR: red + fmt + reset,
+            logging.CRITICAL: red + fmt + reset,
+        }
+
+        self._formatters = {
+            k: logging.Formatter(formatstr) for k, formatstr in formats.items()
+        }
+
+        for f in self._formatters.values():
+            f.default_msec_format = "%s.%03d"
+
+    def format(self, record):
+        formatter = self._formatters[record.levelno]
+        return formatter.format(record)
+
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+handler = logging.StreamHandler()
+handler.setLevel(logging.DEBUG)
+handler.setFormatter(
+    ColorFormatter(fmt="%(asctime)s [%(levelname)s] %(message)s")
+)
+logger.addHandler(handler)
+
+
 class Downloader:
     def __init__(self):
         self.changes = False
@@ -26,7 +68,7 @@ class Downloader:
 
             # convert bare string values to dict
             elif isinstance(v, str) and v.startswith("https://"):
-                print("Converting to dict", k)
+                logger.info("Converting to dict: %r", k)
                 data[k] = {
                     "img": v,
                 }
@@ -53,7 +95,7 @@ class Downloader:
         Note: this may mutate values in data to add error and convert to dict
         format.
         """
-        print("Downloading", path_parts)
+        logger.info("Visiting: %r", path_parts)
 
         for k, v in data.items():
             if v is None:
@@ -62,7 +104,7 @@ class Downloader:
             if isinstance(v, dict):
                 if 'error' in v:
                     if SKIP_ERRORED:
-                        print("WARNING: Skipping due to previous error:", k)
+                        logger.warning("Skipping due to previous error: %r", k)
                         continue
 
                 if 'img' in v:
@@ -98,7 +140,7 @@ class Downloader:
 
 
 def read_and_download(yaml_file: str):
-    print("Reading", yaml_file)
+    logger.info("Reading %r", yaml_file)
     data = yaml.load(open(yaml_file))
 
     dl = Downloader()
@@ -110,7 +152,7 @@ def read_and_download(yaml_file: str):
 
     # write data back
     if dl.changes:
-        print("Writing changes back to file")
+        logger.warning("Writing changes back to file")
         yaml.dump(data, open(yaml_file, "w"))
 
 
@@ -133,20 +175,20 @@ def download_image(
     filepath = parent.joinpath(slug + ext)
 
     if filepath.is_file() and filepath.stat().st_size > 0:
-        print("Image already downloaded:", filepath)
+        logger.debug("Image already downloaded: %r", filepath)
         return str(filepath)
     else:
-        print("Downloading image for", filepath)
+        logger.info("Downloading image for %r", filepath)
 
-    print("GET", url)
+    logger.info("GET %s", url)
     try:
         resp = requests.get(url, timeout=5)
     except requests.exceptions.ReadTimeout as err:
-        print(f"WARNING: received {err!r} while loading {url!r}")
+        logger.warning("received %r while loading %r", err, url)
         return None
 
     if resp.status_code != 200:
-        print(f"WARNING: received HTTP {resp.status_code} from {url!r}")
+        logger.warning("received HTTP %r from %r", resp.status_code, url)
         return None
 
     open(filepath, 'wb').write(resp.content)
