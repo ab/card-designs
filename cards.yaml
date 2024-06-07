@@ -170,7 +170,7 @@ United States:
       U.S. Pride:
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/YTVmOThiNWYtYzI1OC00MmM1LWI3MDgtNDY0MDdkODA1NWQ5/image__140.png
         tags: lowres
-        path: img/United States/Bank of America/Cash Rewards/U-S--Pride.png
+        path: img/United States/Bank of America/Cash Rewards/U.S.-Pride.png
       MLB:
         img: https://u.cubeupload.com/ccbackground/boamlb.png
         path: img/United States/Bank of America/Cash Rewards/MLB.png
@@ -186,10 +186,10 @@ United States:
         path: img/United States/Bank of America/Credit Cards/BankAmericard.png
       Custom Cash Rewards (Mastercard):
         img: https://u.cubeupload.com/ccbackground/boacustomizedcashmc.png
-        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards--Mastercard-.png
+        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards-(Mastercard).png
       Custom Cash Rewards (Visa):
         img: https://u.cubeupload.com/ccbackground/boacustomizedcashvis.png
-        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards--Visa-.png
+        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards-(Visa).png
       Premium Rewards:
         img: https://u.cubeupload.com/ccbackground/boapremiumrewards.png
         path: img/United States/Bank of America/Credit Cards/Premium-Rewards.png
@@ -280,7 +280,7 @@ United States:
       Amazon Prime (Whole Foods):
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png
         tags: lowres
-        path: img/United States/Chase/Personal Credi Cards/Amazon-Prime--Whole-Foods-.png
+        path: img/United States/Chase/Personal Credi Cards/Amazon-Prime-(Whole-Foods).png
       Freedom:
         img: https://u.cubeupload.com/ccbackground/chasefreedom.png
         path: img/United States/Chase/Personal Credi Cards/Freedom.png
@@ -308,7 +308,7 @@ United States:
       IHG One Rewards Select (old):
         img: https://asset-cdn.uscardforum.com/optimized/3X/2/0/20bb0ccbc2f3baf66bb04d8e4d99f387cece0b8c_2_1380x870.png
         tags: lowres
-        path: img/United States/Chase/Personal Credi Cards/IHG-One-Rewards-Select--old-.png
+        path: img/United States/Chase/Personal Credi Cards/IHG-One-Rewards-Select-(old).png
       IHG One Rewards Premier:
         img: https://u.cubeupload.com/waleyz/3.png
         error: true
@@ -568,7 +568,7 @@ United States:
         path: img/United States/Others/Debit Cards/Capital-One.png
       Cash App (black):
         img: https://u.cubeupload.com/ccbackground/cashappdebit.png
-        path: img/United States/Others/Debit Cards/Cash-App--black-.png
+        path: img/United States/Others/Debit Cards/Cash-App-(black).png
       Chales Schwab:
         img: https://u.cubeupload.com/ccbackground/schwabdebit.png
         path: img/United States/Others/Debit Cards/Chales-Schwab.png
@@ -826,7 +826,7 @@ Canada:
   HSBC:
     Premier World Elite (Canada):
       img: https://u.cubeupload.com/ccbackground/hsbcpremierworldelit.png
-      path: img/Canada/HSBC/Premier-World-Elite--Canada-.png
+      path: img/Canada/HSBC/Premier-World-Elite-(Canada).png
   Others:
     BMO Cashback:
       img: https://u.cubeupload.com/uscreditcardstrategy/bmocashback.png
