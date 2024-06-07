@@ -3,35 +3,47 @@ United States:
     Business:
       Amazon Business Prime:
         img: https://u.cubeupload.com/ccbackground/amexamazonbusinesspr.png
+        path: img/United States/American Express/Business/Amazon-Business-Prime.png
       Blue Business Plus:
         img: https://u.cubeupload.com/ccbackground/amexbluebizplus.png
+        path: img/United States/American Express/Business/Blue-Business-Plus.png
       Blue Business Plus 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/9/99eab8f209ed358e45631b4d61366eba2de9d2be.jpeg
         tags: lowres
+        path: img/United States/American Express/Business/Blue-Business-Plus-2020.jpeg
       Business Gold:
         img: https://u.cubeupload.com/cubelin/AMEXBizGold.png
+        path: img/United States/American Express/Business/Business-Gold.png
       Business Green:
         img: https://u.cubeupload.com/ccbackground/amexbusinessgreen.png
+        path: img/United States/American Express/Business/Business-Green.png
       Business Platinum:
         img: https://u.cubeupload.com/ccbackground/amexbizplat.png
         error: true
       Plum:
         img: https://u.cubeupload.com/ccbackground/amexplum.png
+        path: img/United States/American Express/Business/Plum.png
       Additional Card:
         img: https://u.cubeupload.com/ccbackground/amexadditionaluserbi.png
+        path: img/United States/American Express/Business/Additional-Card.png
       Business Delta Reserve 747:
         img: https://asset-cdn.uscardforum.com/optimized/3X/5/1/51f0b27e1e731cd33240cbec7d2dbd4785d2bf3f_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/American Express/Business/Business-Delta-Reserve-747.jpeg
     Personal:
       Delta Blue:
         img: https://u.cubeupload.com/eleboson/aedeltablue.png
         tags: lowres
+        path: img/United States/American Express/Personal/Delta-Blue.png
       Delta Gold:
         img: https://u.cubeupload.com/waleyz/4.png
+        path: img/United States/American Express/Personal/Delta-Gold.png
       Delta Platinum:
         img: https://u.cubeupload.com/ccbackground/amexdeltaskymilespla.png
+        path: img/United States/American Express/Personal/Delta-Platinum.png
       Blue Sky:
         img: https://u.cubeupload.com/ccbackground/amexbluesky.png
+        path: img/United States/American Express/Personal/Blue-Sky.png
       Blue Cash Everyday:
         img: https://u.cubeupload.com/ccbackground/amexbluecash.png
         error: true
@@ -40,15 +52,20 @@ United States:
         error: true
       Morgan Stanley:
         img: https://u.cubeupload.com/ccbackground/amexmorganstanley.png
+        path: img/United States/American Express/Personal/Morgan-Stanley.png
       Every Day:
         img: https://u.cubeupload.com/ccbackground/amexeveryday.png
+        path: img/United States/American Express/Personal/Every-Day.png
       Every Day Preferred:
         img: https://u.cubeupload.com/eleboson/aeedp.png
         tags: lowres
+        path: img/United States/American Express/Personal/Every-Day-Preferred.png
       Hilton Honors old:
         img: https://u.cubeupload.com/ccbackground/amexhiltonnofee.png
+        path: img/United States/American Express/Personal/Hilton-Honors-old.png
       Hilton Honors:
         img: https://asset-cdn.uscardforum.com/optimized/3X/9/2/929cd2195ff608e1ad1e02f7f26afcfb1687a957_2_1380x870.png
+        path: img/United States/American Express/Personal/Hilton-Honors.png
       Hilton Honors Surpass:
         img: https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png
         error: true
@@ -58,6 +75,7 @@ United States:
       Hilton Honors Aspire 2023:
         img: https://asset-cdn.uscardforum.com/optimized/3X/e/d/ed13ad2506323888d57556347ef865ef755ebddc_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/American Express/Personal/Hilton-Honors-Aspire-2023.jpeg
       Centurion:
         img: https://u.cubeupload.com/ccbackground/973C68E833994E2784CD.jpeg
         tags: jpeg
@@ -65,53 +83,70 @@ United States:
       Centurion 2:
         img: https://d1do1axor6p0u1.cloudfront.net/optimized/3X/a/8/a89a333298f7916135e35e719c1a0e48ad9f437c_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/American Express/Personal/Centurion-2.jpeg
       Green:
         img: https://u.cubeupload.com/ccbackground/amexgreen.png
+        path: img/United States/American Express/Personal/Green.png
       Marriott Bonvoy:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoy.png
+        path: img/United States/American Express/Personal/Marriott-Bonvoy.png
       Marriott Bonvoy Brilliant:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png
         error: true
       Platinum:
         img: https://u.cubeupload.com/ccbackground/amexplat.png
+        path: img/United States/American Express/Personal/Platinum.png
       Platinum x Kehinde Wiley:
         img: https://u.cubeupload.com/cubelin/AmexPlatKehindeWiley.png
         error: true
       Platinum Pre 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/d/d0527d9fe0be0dd1525b4f3fdb6deee4fbb69262.jpeg
         tags: lowres
+        path: img/United States/American Express/Personal/Platinum-Pre-2020.jpeg
       Platinum Morgan Stanley:
         img: https://u.cubeupload.com/uscreditcardstrategy/amexmsplatinum.png
+        path: img/United States/American Express/Personal/Platinum-Morgan-Stanley.png
       Platinum Schwab:
         img: https://u.cubeupload.com/ccbackground/amexplatschwab.png
+        path: img/United States/American Express/Personal/Platinum-Schwab.png
       Gold:
         img: https://u.cubeupload.com/uscreditcardstrategy/amexgold.png
+        path: img/United States/American Express/Personal/Gold.png
       Rose Gold:
         img: https://u.cubeupload.com/ccbackground/amexrosegold.png
+        path: img/United States/American Express/Personal/Rose-Gold.png
     Other:
       Send:
         img: https://asset-cdn.uscardforum.com/original/3X/8/c/8c3a085c4b84eb1439637fec34b866fc49d48af5.png
         tags: lowres
+        path: img/United States/American Express/Other/Send.png
   Bank of America:
     Debit Cards:
       Default:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/4/41598cd3db51b7c701846744f9d6b18010d9517a.jpeg
         tags: lowres
+        path: img/United States/Bank of America/Debit Cards/Default.jpeg
       Another Default:
         img: https://u.cubeupload.com/ccbackground/boadebit.png
+        path: img/United States/Bank of America/Debit Cards/Another-Default.png
       BoA University of Michigan Alumni Debit:
         img: https://u.cubeupload.com/ccbackground/boauniversityofmichi.png
+        path: img/United States/Bank of America/Debit Cards/BoA-University-of-Michigan-Alumni-Debit.png
       BoA Brandeis Alumni Association:
         img: https://u.cubeupload.com/eleboson/boadebitbrandeis.png
         tags: lowres
+        path: img/United States/Bank of America/Debit Cards/BoA-Brandeis-Alumni-Association.png
       Bank of America Cal Association:
         img: https://asset-cdn.uscardforum.com/original/3X/b/0/b002f2008eb6e7a6846872241ae91a73778273f3.png
         tags: lowres
+        path: img/United States/Bank of America/Debit Cards/Bank-of-America-Cal-Association.png
       Columbia:
         img: https://u.cubeupload.com/aiggnhlnous/2.png
+        path: img/United States/Bank of America/Debit Cards/Columbia.png
     Cash Rewards:
       Cash Rewards:
         img: https://u.cubeupload.com/ccbackground/boacashrewards.png
+        path: img/United States/Bank of America/Cash Rewards/Cash-Rewards.png
       Cash Rewards 2020 Mastercard:
         img: https://u.cubeupload.com/ccbackground/boacashrewards2020.png
         error: true
@@ -127,54 +162,75 @@ United States:
       WWF:
         img: https://u.cubeupload.com/ccbackground/boa123wwf.jpg
         tags: jpeg
+        path: img/United States/Bank of America/Cash Rewards/WWF.jpg
       Susan G Komen:
         img: https://u.cubeupload.com/ccbackground/boa123susankomen.jpg
         tags: jpeg
+        path: img/United States/Bank of America/Cash Rewards/Susan-G-Komen.jpg
       U.S. Pride:
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/YTVmOThiNWYtYzI1OC00MmM1LWI3MDgtNDY0MDdkODA1NWQ5/image__140.png
         tags: lowres
+        path: img/United States/Bank of America/Cash Rewards/U-S--Pride.png
       MLB:
         img: https://u.cubeupload.com/ccbackground/boamlb.png
+        path: img/United States/Bank of America/Cash Rewards/MLB.png
     Credit Cards:
       Alaska Airlines:
         img: https://u.cubeupload.com/ccbackground/boaalaska.jpg
+        path: img/United States/Bank of America/Credit Cards/Alaska-Airlines.jpg
       Better Balance Rewards:
         img: https://u.cubeupload.com/ccbackground/boabetterbalancerewa.png
+        path: img/United States/Bank of America/Credit Cards/Better-Balance-Rewards.png
       BankAmericard:
         img: https://u.cubeupload.com/ccbackground/bankamericard.png
+        path: img/United States/Bank of America/Credit Cards/BankAmericard.png
       Custom Cash Rewards (Mastercard):
         img: https://u.cubeupload.com/ccbackground/boacustomizedcashmc.png
+        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards--Mastercard-.png
       Custom Cash Rewards (Visa):
         img: https://u.cubeupload.com/ccbackground/boacustomizedcashvis.png
+        path: img/United States/Bank of America/Credit Cards/Custom-Cash-Rewards--Visa-.png
       Premium Rewards:
         img: https://u.cubeupload.com/ccbackground/boapremiumrewards.png
+        path: img/United States/Bank of America/Credit Cards/Premium-Rewards.png
       Premium Rewards Elite:
         img: https://asset-cdn.uscardforum.com/optimized/3X/7/2/727cb6b3cbfca0847f5b155619d8bb82f66c2405_2_1380x870.png
         tags: lowres
+        path: img/United States/Bank of America/Credit Cards/Premium-Rewards-Elite.png
       Premium Rewards 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/7/7602d278ed04cd136fd5fa3405639ae05596a7ce.jpeg
         tags: lowres
+        path: img/United States/Bank of America/Credit Cards/Premium-Rewards-2020.jpeg
       Travel Rewards:
         img: https://u.cubeupload.com/ccbackground/boatravelrewardsdebi.png
+        path: img/United States/Bank of America/Credit Cards/Travel-Rewards.png
   Barclays:
     Uber:
       img: https://u.cubeupload.com/ccbackground/barclaysuber.png
+      path: img/United States/Barclays/Uber.png
     Arrival:
       img: https://u.cubeupload.com/ccbackground/barclayarrival.png
+      path: img/United States/Barclays/Arrival.png
     Rewards:
       img: https://u.cubeupload.com/ccbackground/barclaysrewards.png
+      path: img/United States/Barclays/Rewards.png
     AAdvantage Aviator:
       img: https://u.cubeupload.com/ccbackground/barclaysaadvantageav.png
+      path: img/United States/Barclays/AAdvantage-Aviator.png
     JetBlue:
       img: https://u.cubeupload.com/aiggnhlnous/3.png
+      path: img/United States/Barclays/JetBlue.png
     Premier:
       img: https://d1do1axor6p0u1.cloudfront.net/optimized/3X/4/5/45114eaa21bf868eb7123b99273496921270a09e_2_1380x870.jpeg
       tags: lowres
+      path: img/United States/Barclays/Premier.jpeg
   Capital One:
     Capital One Quicksilver:
       img: https://u.cubeupload.com/ccbackground/quicksilver.png
+      path: img/United States/Capital One/Capital-One-Quicksilver.png
     Capital One Venture X:
       img: https://u.cubeupload.com/cubelin/CapitalOneVentureX.png
+      path: img/United States/Capital One/Capital-One-Venture-X.png
   Chase:
     Debit Cards:
       Debit Card:
@@ -205,15 +261,18 @@ United States:
       Ink Unlimited old:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/7/74e69ad2cfef3fc4e1e4b7b5a49128dbc2a208c3.jpeg
         tags: lowres
+        path: img/United States/Chase/Business Cards/Ink-Unlimited-old.jpeg
       Ink Unlimited:
         img: https://u.cubeupload.com/cubelin/CIU.png
         error: true
       ink premier:
         img: https://asset-cdn.uscardforum.com/optimized/3X/2/9/29d7117dfe8d3640c67cc79191cde0fafd0b0c3d_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Chase/Business Cards/ink-premier.jpeg
       Platinum business:
         img: https://asset-cdn.uscardforum.com/optimized/3X/8/d/8d994e16c361393b148d3709e21e147abba5474a_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Chase/Business Cards/Platinum-business.jpeg
     Personal Credi Cards:
       Amazon Prime:
         img: https://u.cubeupload.com/ccbackground/chaseamazonprime.png
@@ -221,14 +280,19 @@ United States:
       Amazon Prime (Whole Foods):
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png
         tags: lowres
+        path: img/United States/Chase/Personal Credi Cards/Amazon-Prime--Whole-Foods-.png
       Freedom:
         img: https://u.cubeupload.com/ccbackground/chasefreedom.png
+        path: img/United States/Chase/Personal Credi Cards/Freedom.png
       Freedom Flex:
         img: https://u.cubeupload.com/ccbackground/chasefreedomflex.png
+        path: img/United States/Chase/Personal Credi Cards/Freedom-Flex.png
       Freedom Unlimited:
         img: https://u.cubeupload.com/ccbackground/chasefreedomunlimite.png
+        path: img/United States/Chase/Personal Credi Cards/Freedom-Unlimited.png
       Ritz-Carlton:
         img: https://u.cubeupload.com/ccbackground/chaseritzcarlton.png
+        path: img/United States/Chase/Personal Credi Cards/Ritz-Carlton.png
       Sapphire Preferred 2020:
         img: https://u.cubeupload.com/ccbackground/chasesapphirepreferr.png
         error: true
@@ -237,16 +301,20 @@ United States:
         error: true
       Sapphire Reserve:
         img: https://u.cubeupload.com/ccbackground/chasesapphirereserve.png
+        path: img/United States/Chase/Personal Credi Cards/Sapphire-Reserve.png
       IHG Gold:
         img: https://u.cubeupload.com/ccbackground/chaseihggold.png
+        path: img/United States/Chase/Personal Credi Cards/IHG-Gold.png
       IHG One Rewards Select (old):
         img: https://asset-cdn.uscardforum.com/optimized/3X/2/0/20bb0ccbc2f3baf66bb04d8e4d99f387cece0b8c_2_1380x870.png
         tags: lowres
+        path: img/United States/Chase/Personal Credi Cards/IHG-One-Rewards-Select--old-.png
       IHG One Rewards Premier:
         img: https://u.cubeupload.com/waleyz/3.png
         error: true
       Marriott Bonvoy Bold:
         img: https://u.cubeupload.com/ccbackground/chasemarriottbonvoyb.png
+        path: img/United States/Chase/Personal Credi Cards/Marriott-Bonvoy-Bold.png
       Marriott Bonvoy Boundless old:
         img: https://u.cubeupload.com/ccbackground/599chasemarriottbonvoyb.png
         error: true
@@ -255,25 +323,34 @@ United States:
         error: true
       Southwest Plus:
         img: https://u.cubeupload.com/ccbackground/d35chasesouthwestrapidr.png
+        path: img/United States/Chase/Personal Credi Cards/Southwest-Plus.png
       Southwest Priority:
         img: https://u.cubeupload.com/ccbackground/chasesouthwestrapidr.png
+        path: img/United States/Chase/Personal Credi Cards/Southwest-Priority.png
       Southwest Premier Business:
         img: https://u.cubeupload.com/ccbackground/chasesouthwestpremie.png
+        path: img/United States/Chase/Personal Credi Cards/Southwest-Premier-Business.png
       United Mileage Plus Gateway:
         img: https://u.cubeupload.com/eleboson/chaseuagateway.png
         tags: lowres
+        path: img/United States/Chase/Personal Credi Cards/United-Mileage-Plus-Gateway.png
       United Mileage Plus:
         img: https://u.cubeupload.com/ccbackground/chasemileageplus.png
+        path: img/United States/Chase/Personal Credi Cards/United-Mileage-Plus.png
       United Mileage Plus CLUB:
         img: https://asset-cdn.uscardforum.com/optimized/3X/f/0/f02801ad6d23f39b948e2fb6a2485113be44568e_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Chase/Personal Credi Cards/United-Mileage-Plus-CLUB.jpeg
       United Mileage Plus Explorer:
         img: https://u.cubeupload.com/ccbackground/chaseunitedexplorer.png
+        path: img/United States/Chase/Personal Credi Cards/United-Mileage-Plus-Explorer.png
       United Mileage Plus Quest:
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/NDJlMzhkOWItMTEwNC00MjQ1LTgwOTUtNDIxMGI3ZTgyNWY0/image__140.png
         tags: lowres
+        path: img/United States/Chase/Personal Credi Cards/United-Mileage-Plus-Quest.png
       World of Hyatt:
         img: https://u.cubeupload.com/ccbackground/chasehyatt.png
+        path: img/United States/Chase/Personal Credi Cards/World-of-Hyatt.png
   Citi:
     Debit Cards:
       Citigold Debit:
@@ -282,25 +359,32 @@ United States:
       Citigold Private Client:
         img: https://asset-cdn.uscardforum.com/optimized/3X/0/8/08a9edad7f4a76356500b73955bdc2e8c59299ad_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Citi/Debit Cards/Citigold-Private-Client.jpeg
       Debit:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/2/23c79bcab8f3ca55434fc6f30fe04e772c886f27.jpeg
         tags: lowres
+        path: img/United States/Citi/Debit Cards/Debit.jpeg
     Credit Cards:
       AAdvantage MileUp:
         img: https://u.cubeupload.com/eleboson/citiaamileup.png
         tags: lowres
+        path: img/United States/Citi/Credit Cards/AAdvantage-MileUp.png
       AAdvantage Platinum Select:
         img: https://u.cubeupload.com/ccbackground/citiaadvantageplatin.jpg
+        path: img/United States/Citi/Credit Cards/AAdvantage-Platinum-Select.jpg
       CitiBusiness AAdvantage Platinum Select:
         img: https://u.cubeupload.com/karlsino/6.png
         error: true
       Dividend:
         img: https://u.cubeupload.com/ccbackground/citidividend.png
+        path: img/United States/Citi/Credit Cards/Dividend.png
       Costco Anywhere:
         img: https://u.cubeupload.com/eleboson/citicostco.png
         tags: lowres
+        path: img/United States/Citi/Credit Cards/Costco-Anywhere.png
       Double Cash:
         img: https://u.cubeupload.com/ccbackground/citidoublecash.png
+        path: img/United States/Citi/Credit Cards/Double-Cash.png
       Premier Pre 2021:
         img: https://u.cubeupload.com/ccbackground/citipremier.png
         error: true
@@ -311,11 +395,13 @@ United States:
       Aeroplan Reserve:
         img: https://u.cubeupload.com/colderplay/cardBackgroundCombin.png
         tags: lowres
+        path: img/United States/Citi/Credit Cards/Aeroplan-Reserve.png
       Rewards+:
         img: https://u.cubeupload.com/ccbackground/citirewardsplus.png
         error: true
       Thank You Preferred:
         img: https://u.cubeupload.com/ccbackground/citithankyoupreferre.jpg
+        path: img/United States/Citi/Credit Cards/Thank-You-Preferred.jpg
   Discover:
     it Standard Designs:
       Rose Quartz:
@@ -330,6 +416,7 @@ United States:
       Blue:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/a/a58ffbd46ceaaa9901155bdd3dcf0df38f91536d.jpeg
         tags: lowres
+        path: img/United States/Discover/it Standard Designs/Blue.jpeg
       Pride:
         img: https://u.cubeupload.com/ccbackground/discoverpride.png
         error: true
@@ -345,37 +432,48 @@ United States:
     Other Designs:
       wolf:
         img: https://u.cubeupload.com/ccbackground/discoverwolf.jpg
+        path: img/United States/Discover/Other Designs/wolf.jpg
       mixtape:
         img: https://u.cubeupload.com/ccbackground/discovermixtape.png
+        path: img/United States/Discover/Other Designs/mixtape.png
       Husky:
         img: https://asset-cdn.uscardforum.com/optimized/3X/e/8/e8f05f489ca6eedd4c2206f433dca9d371b9c235_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Discover/Other Designs/Husky.jpeg
       Polar Bear:
         img: https://asset-cdn.uscardforum.com/original/3X/3/6/36853d9fed574f5db043c4ab756723531be49a94.jpeg
         tags: jpeg
+        path: img/United States/Discover/Other Designs/Polar-Bear.jpeg
       Cat:
         img: https://asset-cdn.uscardforum.com/optimized/3X/7/8/78b98b396ef105f47b5b330a6dc8aa00ac8bf242_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Discover/Other Designs/Cat.jpeg
       Green:
         img: https://asset-cdn.uscardforum.com/original/3X/9/c/9cf1c4c96640c78f35d31e54b3f18cb55dfe77dc.jpeg
         tags: jpeg
+        path: img/United States/Discover/Other Designs/Green.jpeg
     Others:
       Cashback Debit:
         img: https://u.cubeupload.com/ccbackground/discovercashbackdebi.png
+        path: img/United States/Discover/Others/Cashback-Debit.png
   Fidelity:
     Credit:
       Fidelity:
         img: https://u.cubeupload.com/ccbackground/fedilityrewards.png
+        path: img/United States/Fidelity/Credit/Fidelity.png
     Debit:
       Fidelity HSA:
         img: https://u.cubeupload.com/aiggnhlnous/1.png
+        path: img/United States/Fidelity/Debit/Fidelity-HSA.png
       Fidelity Bloom:
         img: https://asset-cdn.uscardforum.com/optimized/3X/a/5/a53144eb13aafdbf42f64aedcc1b79ca279cf283_2_1380x870.png
         tags: lowres
+        path: img/United States/Fidelity/Debit/Fidelity-Bloom.png
   HSBC:
     Elite:
       img: https://asset-cdn.uscardforum.com/optimized/3X/7/b/7b5b886575ddc3d085ec8c18622621dae279260b_2_1380x870.jpeg
       tags: jpeg
+      path: img/United States/HSBC/Elite.jpeg
     Premier Debit:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierdebit.png
       error: true
@@ -384,12 +482,15 @@ United States:
       error: true
     Premier World:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierworld.png
+      path: img/United States/HSBC/Premier-World.png
     Premier World Elite:
       img: https://forum.uscreditcardguide.com/uploads/default/original/2X/6/63ea0bcce734126ad50a5d5402f14003a5d5ae26.jpeg
       tags: lowres
+      path: img/United States/HSBC/Premier-World-Elite.jpeg
     Premier World Elite 2:
       img: https://d1do1axor6p0u1.cloudfront.net/optimized/3X/1/5/15a7c1dc88a48763506f99095151353b0b98bc99_2_1380x870.jpeg
       tags: jpeg
+      path: img/United States/HSBC/Premier-World-Elite-2.jpeg
     Jade World Elite:
       img: https://forum.uscreditcardguide.com/uploads/default/original/2X/0/04c38416f3b395952fa3a5ef5c186649992f69c5.jpeg
       tags: lowres
@@ -397,6 +498,7 @@ United States:
   Penfed:
     Penfed Power Cash:
       img: https://u.cubeupload.com/ccbackground/penfedpowercash.png
+      path: img/United States/Penfed/Penfed-Power-Cash.png
     Penfed Pathfinder:
       img: https://u.cubeupload.com/ccbackground/penfedpathfinder.png
       error: true
@@ -406,277 +508,383 @@ United States:
   Synchrony:
     Banana Republic:
       img: https://u.cubeupload.com/ccbackground/synchonybananarepubl.png
+      path: img/United States/Synchrony/Banana-Republic.png
     Verizon:
       img: https://u.cubeupload.com/ccbackground/synchronyverizon.png
+      path: img/United States/Synchrony/Verizon.png
   US Bank:
     Credit:
       Altitude Reserve 2020:
         img: https://u.cubeupload.com/ccbackground/350usbankaltitudereserv.png
+        path: img/United States/US Bank/Credit/Altitude-Reserve-2020.png
       Altitude Reserve 2021-2022:
         img: https://u.cubeupload.com/ccbackground/usbankaltitudereserv.png
+        path: img/United States/US Bank/Credit/Altitude-Reserve-2021-2022.png
       Altitude Reserve 2023:
         img: https://asset-cdn.uscardforum.com/optimized/3X/6/7/6708e3bd2da3897cb79d3a0981c7af457ecfc571_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/US Bank/Credit/Altitude-Reserve-2023.jpeg
       Cash Plus 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/1/1ebc2ec95a73b2530a16320ea070d2db1678e454.jpeg
         tags: lowres
+        path: img/United States/US Bank/Credit/Cash-Plus-2020.jpeg
       Cash Plus:
         img: https://u.cubeupload.com/uscreditcardstrategy/usbankcashplus.png
+        path: img/United States/US Bank/Credit/Cash-Plus.png
       Leverage:
         img: https://u.cubeupload.com/ccbackground/usbankleverage.png
+        path: img/United States/US Bank/Credit/Leverage.png
       Go:
         img: https://u.cubeupload.com/ccbackground/usbankaltitudego.png
+        path: img/United States/US Bank/Credit/Go.png
     Debit:
       US National Flag:
         img: https://asset-cdn.uscardforum.com/optimized/3X/8/c/8cf4b2acfaded373389e64b5ff7fc36ca6669f65_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/US Bank/Debit/US-National-Flag.jpeg
   Others:
     Debit Cards:
       Acorns:
         img: https://u.cubeupload.com/uscreditcardstrategy/acornsdebit.png
+        path: img/United States/Others/Debit Cards/Acorns.png
       Albert:
         img: https://u.cubeupload.com/ccbackground/albert.png
+        path: img/United States/Others/Debit Cards/Albert.png
       Ally:
         img: https://u.cubeupload.com/ccbackground/allydebit.png
+        path: img/United States/Others/Debit Cards/Ally.png
       AOD:
         img: https://u.cubeupload.com/Chekochtra/B3C59DD68D3F4B90A334.png
+        path: img/United States/Others/Debit Cards/AOD.png
       Aspiration:
         img: https://u.cubeupload.com/ccbackground/aspirationdebit.png
+        path: img/United States/Others/Debit Cards/Aspiration.png
       Betterment:
         img: https://u.cubeupload.com/ccbackground/bettermentdebit.png
+        path: img/United States/Others/Debit Cards/Betterment.png
       Capital One:
         img: https://u.cubeupload.com/eleboson/oc1debit.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/Capital-One.png
       Cash App (black):
         img: https://u.cubeupload.com/ccbackground/cashappdebit.png
+        path: img/United States/Others/Debit Cards/Cash-App--black-.png
       Chales Schwab:
         img: https://u.cubeupload.com/ccbackground/schwabdebit.png
+        path: img/United States/Others/Debit Cards/Chales-Schwab.png
       Cheese:
         img: https://u.cubeupload.com/ccbackground/cheese.png
+        path: img/United States/Others/Debit Cards/Cheese.png
       Chime:
         img: https://u.cubeupload.com/ccbackground/chime.png
+        path: img/United States/Others/Debit Cards/Chime.png
       Citizens Bank:
         img: https://u.cubeupload.com/ccbackground/citizensdebit.png
+        path: img/United States/Others/Debit Cards/Citizens-Bank.png
       Columbia Bank:
         img: https://u.cubeupload.com/ccbackground/columbiabankdebit.png
+        path: img/United States/Others/Debit Cards/Columbia-Bank.png
       Current:
         img: https://u.cubeupload.com/ccbackground/currentdebit.png
+        path: img/United States/Others/Debit Cards/Current.png
       Curve:
         img: https://u.cubeupload.com/ccbackground/curve.png
+        path: img/United States/Others/Debit Cards/Curve.png
       Digital Credit Union:
         img: https://u.cubeupload.com/ccbackground/a41dcudebit.png
+        path: img/United States/Others/Debit Cards/Digital-Credit-Union.png
       ETrade:
         img: https://u.cubeupload.com/eleboson/oetdebit.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/ETrade.png
       Fairwinds:
         img: https://u.cubeupload.com/ccbackground/fairwindsdebit.png
+        path: img/United States/Others/Debit Cards/Fairwinds.png
       Genisys credit union:
         img: https://u.cubeupload.com/ccbackground/genisyscreditunion.png
+        path: img/United States/Others/Debit Cards/Genisys-credit-union.png
       Gesa:
         img: https://u.cubeupload.com/ccbackground/gesadebit.png
+        path: img/United States/Others/Debit Cards/Gesa.png
       HMBradley:
         img: https://u.cubeupload.com/ccbackground/hmbradley.png
+        path: img/United States/Others/Debit Cards/HMBradley.png
       Lili:
         img: https://u.cubeupload.com/ccbackground/lilidebit.png
+        path: img/United States/Others/Debit Cards/Lili.png
       Mercury Business:
         img: https://asset-cdn.uscardforum.com/optimized/3X/8/3/83a4fefe3256a71e73d4ae11b80390e07189f513_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Others/Debit Cards/Mercury-Business.jpeg
       Monifi:
         img: https://u.cubeupload.com/ccbackground/monifidebit.png
+        path: img/United States/Others/Debit Cards/Monifi.png
       Morgan Stanley:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/5/5fca06b000e38ad14ae3ffc9d78c630b0918e0d7.jpeg
         tags: jpeg
+        path: img/United States/Others/Debit Cards/Morgan-Stanley.jpeg
       N26:
         img: https://u.cubeupload.com/ccbackground/n26debit.png
+        path: img/United States/Others/Debit Cards/N26.png
       Netspend:
         img: https://u.cubeupload.com/ccbackground/netspend.png
+        path: img/United States/Others/Debit Cards/Netspend.png
       Onjuno:
         img: https://u.cubeupload.com/uscreditcardstrategy/Onjunodebit.png
+        path: img/United States/Others/Debit Cards/Onjuno.png
       Passbook:
         img: https://u.cubeupload.com/uscreditcardstrategy/Passbook.png
+        path: img/United States/Others/Debit Cards/Passbook.png
       PNC LGBT+:
         img: https://u.cubeupload.com/ccbackground/pnclgbtdebit.png
+        path: img/United States/Others/Debit Cards/PNC-LGBT+.png
       PNC University of Michigan Debit:
         img: https://u.cubeupload.com/ccbackground/pncuniversityofmichi.png
+        path: img/United States/Others/Debit Cards/PNC-University-of-Michigan-Debit.png
       Revolut:
         img: https://u.cubeupload.com/ccbackground/revolut.png
+        path: img/United States/Others/Debit Cards/Revolut.png
       Revolut Virtual:
         img: https://u.cubeupload.com/uscreditcardstrategy/revolutvirtual.png
+        path: img/United States/Others/Debit Cards/Revolut-Virtual.png
       Robinhood:
         img: https://u.cubeupload.com/ccbackground/robinhooddebit.png
+        path: img/United States/Others/Debit Cards/Robinhood.png
       Sable:
         img: https://u.cubeupload.com/ccbackground/sable.png
+        path: img/United States/Others/Debit Cards/Sable.png
       Santander:
         img: https://u.cubeupload.com/ccbackground/santanderdebit.png
+        path: img/United States/Others/Debit Cards/Santander.png
       Sofi:
         img: https://u.cubeupload.com/uscreditcardstrategy/Sofidebit.png
+        path: img/United States/Others/Debit Cards/Sofi.png
       Spiral:
         img: https://u.cubeupload.com/ccbackground/spiral.png
+        path: img/United States/Others/Debit Cards/Spiral.png
       Starling Bank:
         img: https://asset-cdn.uscardforum.com/optimized/3X/9/f/9f38f56ca59c43b938cfdf5d20e91c2b8425c008_2_1380x870.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/Starling-Bank.png
       Sunflower Bank:
         img: https://u.cubeupload.com/ccbackground/sunflowerbank.png
+        path: img/United States/Others/Debit Cards/Sunflower-Bank.png
       TD Bank:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/1/117630ebb572287bc68b578426128ff91d21901c.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/TD-Bank.png
       Treecard:
         img: https://u.cubeupload.com/ccbackground/treecard.jpeg
+        path: img/United States/Others/Debit Cards/Treecard.jpeg
       Upgrade:
         img: https://u.cubeupload.com/uscreditcardstrategy/upgrade.png
+        path: img/United States/Others/Debit Cards/Upgrade.png
       Varo:
         img: https://u.cubeupload.com/ccbackground/varo.png
+        path: img/United States/Others/Debit Cards/Varo.png
       Venmo:
         img: https://u.cubeupload.com/eleboson/ovenmodebit.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/Venmo.png
       Venmo 2:
         img: https://asset-cdn.uscardforum.com/optimized/3X/a/d/ad56f8ebb54aff618944c72698937223479f403c_2_1380x870.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/Venmo-2.png
       Verity:
         img: https://u.cubeupload.com/ccbackground/veritydebit.png
+        path: img/United States/Others/Debit Cards/Verity.png
       Workers Credit Union:
         img: https://u.cubeupload.com/ccbackground/workerscudebit.png
+        path: img/United States/Others/Debit Cards/Workers-Credit-Union.png
       Fiz:
         img: https://asset-cdn.uscardforum.com/optimized/3X/0/3/034f4880bc33e3ae28f40147e9a1794739a9cade_2_1380x870.png
         tags: lowres
+        path: img/United States/Others/Debit Cards/Fiz.png
     Credit Cards:
       Others:
         AOD Visa Signature:
           img: https://forum.uscreditcardguide.com/uploads/default/original/2X/4/4db7385f832aab11a5be406c66f31e70d098247c.png
           tags: lowres
+          path: img/United States/Others/Credit Cards/Others/AOD-Visa-Signature.png
         Brex Card:
           img: https://u.cubeupload.com/ccbackground/brex.png
+          path: img/United States/Others/Credit Cards/Others/Brex-Card.png
         Deserve Edu:
           img: https://u.cubeupload.com/ccbackground/deserve.png
+          path: img/United States/Others/Credit Cards/Others/Deserve-Edu.png
         Goldman Sachs Apple Card:
           img: https://u.cubeupload.com/ccbackground/applecard.png
+          path: img/United States/Others/Credit Cards/Others/Goldman-Sachs-Apple-Card.png
         JP Morgan Reserve:
         Wells Fargo Propel:
           img: https://u.cubeupload.com/ccbackground/wellsfargopropel.png
+          path: img/United States/Others/Credit Cards/Others/Wells-Fargo-Propel.png
         Wells Fargo Propel World:
         Ducks Unlimited credit card:
           img: https://u.cubeupload.com/ccbackground/firstbankcarddebit.png
           note: only the generic image is shown in apple pay
+          path: img/United States/Others/Credit Cards/Others/Ducks-Unlimited-credit-card.png
         OCCU The Duck Card:
           img: https://u.cubeupload.com/ccbackground/occuduckcard.png
           note: generic image
+          path: img/United States/Others/Credit Cards/Others/OCCU-The-Duck-Card.png
       HMBradley:
         Zebra:
           img: https://u.cubeupload.com/ccbackground/hmbradleycredit.png
+          path: img/United States/Others/Credit Cards/HMBradley/Zebra.png
         Zebra vertical:
           img: https://u.cubeupload.com/ccbackground/hmbradleyzebravertic.png
+          path: img/United States/Others/Credit Cards/HMBradley/Zebra-vertical.png
         Teal vertical:
           img: https://u.cubeupload.com/ccbackground/hmbradleyteal.png
+          path: img/United States/Others/Credit Cards/HMBradley/Teal-vertical.png
         Teal:
           img: https://u.cubeupload.com/ccbackground/6eahmbradleyteal.png
+          path: img/United States/Others/Credit Cards/HMBradley/Teal.png
         Pink vertical:
           img: https://u.cubeupload.com/ccbackground/hmbradleypink2.png
+          path: img/United States/Others/Credit Cards/HMBradley/Pink-vertical.png
         Pink:
           img: https://u.cubeupload.com/ccbackground/hmbradleypink1.png
+          path: img/United States/Others/Credit Cards/HMBradley/Pink.png
         Green vertical:
           img: https://u.cubeupload.com/ccbackground/hmbradleygreen.png
+          path: img/United States/Others/Credit Cards/HMBradley/Green-vertical.png
         Green:
           img: https://u.cubeupload.com/ccbackground/592hmbradleygreen.png
+          path: img/United States/Others/Credit Cards/HMBradley/Green.png
       Cardless:
         Manchester United:
           img: https://u.cubeupload.com/ccbackground/cardlessmanchesterun.png
+          path: img/United States/Others/Credit Cards/Cardless/Manchester-United.png
         Cleveland Cavaliers:
           img: https://u.cubeupload.com/ccbackground/cardlesscavaliers.png
+          path: img/United States/Others/Credit Cards/Cardless/Cleveland-Cavaliers.png
         Boston Celtic:
           img: https://u.cubeupload.com/ccbackground/cardlessbostonceltic.png
+          path: img/United States/Others/Credit Cards/Cardless/Boston-Celtic.png
     Gift Cards:
       eMGC:
         img: https://asset-cdn.uscardforum.com/optimized/3X/7/b/7b676ffe08995d10791899afaa70d3c734b94dd0_2_1380x870.jpeg
         tags: jpeg
+        path: img/United States/Others/Gift Cards/eMGC.jpeg
 Hong Kong:
   American Express:
     AmEx Platinum 大头卡:
       slug: AmEx-Platinum-HK
       img: https://u.cubeupload.com/uscreditcardstrategy/AmExPlatinumHK.png
+      path: img/Hong Kong/American Express/AmEx-Platinum-HK.png
   Others:
     Credit Cards:
       信銀國際信用卡:
         slug: CNCBI
         img: https://u.cubeupload.com/ccbackground/893ea5.png
+        path: img/Hong Kong/Others/Credit Cards/CNCBI.png
       HSBC Red:
         img: https://u.cubeupload.com/ccbackground/red.png
+        path: img/Hong Kong/Others/Credit Cards/HSBC-Red.png
       HSBC Premier World:
         img: https://u.cubeupload.com/ccbackground/3cdae6.png
+        path: img/Hong Kong/Others/Credit Cards/HSBC-Premier-World.png
       工銀亞洲星座信用卡Pisces:
         slug: ICBC-Asia-Zodiac-Pisces
         img: https://u.cubeupload.com/ccbackground/332d7b.png
+        path: img/Hong Kong/Others/Credit Cards/ICBC-Asia-Zodiac-Pisces.png
       Heng Seng yuu:
         img: https://asset-cdn.uscardforum.com/optimized/3X/f/9/f921bf84400b0d99b07fa30969fb329c9b6c4420_2_1380x870.jpeg
         tags: jpeg
+        path: img/Hong Kong/Others/Credit Cards/Heng-Seng-yuu.jpeg
     Debit Cards:
       TapNGo:
         img: https://u.cubeupload.com/uscreditcardstrategy/tapngo.png
+        path: img/Hong Kong/Others/Debit Cards/TapNGo.png
       HSBC:
         img: https://u.cubeupload.com/ccbackground/HSBCHK.png
+        path: img/Hong Kong/Others/Debit Cards/HSBC.png
 UK:
   Monzo Debit:
     img: https://u.cubeupload.com/ccbackground/ukmonzo.png
+    path: img/UK/Monzo-Debit.png
   Amex British Airways:
     img: https://asset-cdn.uscardforum.com/optimized/3X/8/2/826634db56f70764ca7921046068ac5195a71ba1_2_1380x870.jpeg
     tags: jpeg
+    path: img/UK/Amex-British-Airways.jpeg
   Chase UK Debit:
     img: https://asset-cdn.uscardforum.com/optimized/3X/8/b/8b22580df9a5dc391403a02a854c24cc1f025c67_2_1380x870.jpeg
     tags: jpeg
+    path: img/UK/Chase-UK-Debit.jpeg
 Singapore:
   HSBC:
     Premier Everyday Global Debit:
       img: https://u.cubeupload.com/ccbackground/hsbcpremiersgdebit.png
+      path: img/Singapore/HSBC/Premier-Everyday-Global-Debit.png
 Netherlands:
   ING Betaalpas Debit:
     img: https://u.cubeupload.com/ccbackground/ingbetaalpus.png
+    path: img/Netherlands/ING-Betaalpas-Debit.png
 Canada:
   HSBC:
     Premier World Elite (Canada):
       img: https://u.cubeupload.com/ccbackground/hsbcpremierworldelit.png
+      path: img/Canada/HSBC/Premier-World-Elite--Canada-.png
   Others:
     BMO Cashback:
       img: https://u.cubeupload.com/uscreditcardstrategy/bmocashback.png
+      path: img/Canada/Others/BMO-Cashback.png
     RMC Rewards Visa:
       img: https://u.cubeupload.com/uscreditcardstrategy/RBCrewardsvisa.png
+      path: img/Canada/Others/RMC-Rewards-Visa.png
     Neo Cathay:
       img: https://asset-cdn.uscardforum.com/optimized/3X/b/9/b90e359e50942cae5e04e2d50120bbb5ca391b23_2_1380x870.jpeg
       tags: jpeg
+      path: img/Canada/Others/Neo-Cathay.jpeg
     Rogers:
       img: https://asset-cdn.uscardforum.com/optimized/3X/d/6/d6d69bcf301dcd273cd2f4089f8175cfd4c03dbe_2_1380x870.jpeg
       tags: jpeg
+      path: img/Canada/Others/Rogers.jpeg
     Financial:
       img: https://asset-cdn.uscardforum.com/optimized/3X/5/f/5f28abd97c5f5cacd0d43c662c4f9e4ddf46e5c6_2_1380x870.jpeg
       tags: jpeg
+      path: img/Canada/Others/Financial.jpeg
     Aeroplan Reserve:
       img: https://u.cubeupload.com/colderplay/cardBackgroundCombin.png
+      path: img/Canada/Others/Aeroplan-Reserve.png
 Taiwan:
   CTBC Bank:
     Taipei101 Co-Branded Visa Signature Card:
       img: https://u.cubeupload.com/ccbackground/twctbc101.png
+      path: img/Taiwan/CTBC Bank/Taipei101-Co-Branded-Visa-Signature-Card.png
     Dual Currency Visa Signature Business Card:
       img: https://u.cubeupload.com/ccbackground/twctbcdualcurrencyvi.png
+      path: img/Taiwan/CTBC Bank/Dual-Currency-Visa-Signature-Business-Card.png
   Taishin Bank:
     GoGo:
       img: https://asset-cdn.uscardforum.com/optimized/3X/4/c/4c4201b09edaabbc3ebbef6c93f9dbc17f6ecd10_2_1380x870.jpeg
       tags: jpeg
+      path: img/Taiwan/Taishin Bank/GoGo.jpeg
 Japan:
   Line Pay:
     img: https://asset-cdn.uscardforum.com/original/3X/8/c/8c3a085c4b84eb1439637fec34b866fc49d48af5.png
     tags: lowres
+    path: img/Japan/Line-Pay.png
 China:
   HSBC 汇丰银行 China Premier Debit UnionPay:
     slug: CMB-Premier-Debit-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/d/2/d2cf715c17d10b1e1fc55530914be420226905de.jpeg
     tags: lowres
+    path: img/China/CMB-Premier-Debit-UnionPay.jpeg
   CMB 招商银行 Platinum Debit UnionPay:
     slug: CMB-Platinum-Debit-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg
     tags: lowres
+    path: img/China/CMB-Platinum-Debit-UnionPay.jpeg
   CMB 招商银行 Young Card UnionPay:
     slug: CMB-Young-Card-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg
     tags: jpeg
+    path: img/China/CMB-Young-Card-UnionPay.jpeg
   CMB 招商银行 皮卡丘 UnionPay:
     slug: CMB-Pikachu-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg
     tags: jpeg
+    path: img/China/CMB-Pikachu-UnionPay.jpeg
