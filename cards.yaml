@@ -71,7 +71,7 @@ United States:
       Bank of America Cal Association:
         img: https://asset-cdn.uscardforum.com/original/3X/b/0/b002f2008eb6e7a6846872241ae91a73778273f3.png
         tags: lowres
-      Columbia?: https://u.cubeupload.com/aiggnhlnous/2.png
+      Columbia: https://u.cubeupload.com/aiggnhlnous/2.png
     Cash Rewards:
       Cash Rewards: https://u.cubeupload.com/ccbackground/boacashrewards.png
       Cash Rewards 2020 Mastercard: https://u.cubeupload.com/ccbackground/boacashrewards2020.png
@@ -380,13 +380,19 @@ United States:
         tags: jpeg
 Hong Kong:
   American Express:
-    AmEx Platinum 大头卡: https://u.cubeupload.com/uscreditcardstrategy/AmExPlatinumHK.png
+    AmEx Platinum 大头卡:
+      slug: AmEx-Platinum-HK
+      img: https://u.cubeupload.com/uscreditcardstrategy/AmExPlatinumHK.png
   Others:
     Credit Cards:
-      信銀國際信用卡: https://u.cubeupload.com/ccbackground/893ea5.png
+      信銀國際信用卡:
+        slug: CNCBI
+        img: https://u.cubeupload.com/ccbackground/893ea5.png
       HSBC Red: https://u.cubeupload.com/ccbackground/red.png
       HSBC Premier World: https://u.cubeupload.com/ccbackground/3cdae6.png
-      工銀亞洲星座信用卡Pisces: https://u.cubeupload.com/ccbackground/332d7b.png
+      工銀亞洲星座信用卡Pisces:
+        slug: ICBC-Asia-Zodiac-Pisces
+        img: https://u.cubeupload.com/ccbackground/332d7b.png
       Heng Seng yuu:
         img: https://asset-cdn.uscardforum.com/optimized/3X/f/9/f921bf84400b0d99b07fa30969fb329c9b6c4420_2_1380x870.jpeg
         tags: jpeg
@@ -436,14 +442,18 @@ Japan:
     tags: lowres
 China:
   HSBC 汇丰银行 China Premier Debit UnionPay:
+    slug: CMB-Premier-Debit-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/d/2/d2cf715c17d10b1e1fc55530914be420226905de.jpeg
     tags: lowres
   CMB 招商银行 Platinum Debit UnionPay:
+    slug: CMB-Platinum-Debit-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg
     tags: lowres
   CMB 招商银行 Young Card UnionPay:
+    slug: CMB-Young-Card-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg
     tags: jpeg
   CMB 招商银行 皮卡丘 UnionPay:
+    slug: CMB-Pikachu-UnionPay
     img: https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg
     tags: jpeg
