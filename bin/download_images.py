@@ -12,6 +12,9 @@ from ruamel.yaml import YAML
 yaml = YAML()
 
 
+SKIP_ERRORED = False
+
+
 class Downloader:
     def __init__(self):
         self.changes = False
@@ -58,8 +61,9 @@ class Downloader:
 
             if isinstance(v, dict):
                 if 'error' in v:
-                    print("WARNING: Skipping due to previous error:", k)
-                    continue
+                    if SKIP_ERRORED:
+                        print("WARNING: Skipping due to previous error:", k)
+                        continue
 
                 if 'img' in v:
                     file = download_image(
@@ -68,13 +72,20 @@ class Downloader:
                         url=v['img'],
                         slug=v.get('slug'),
                     )
-                    if file:
-                        if v.get('path') != file:
-                            v['path'] = file
-                            self.changes = True
-                    else:
+
+                    if not file:
                         v['error'] = True
                         self.changes = True
+                        continue
+
+                    # update path as needed
+                    if v.get('path') != file:
+                        v['path'] = file
+                        self.changes = True
+
+                    # clear error as needed
+                    if v.get('error'):
+                        del v['error']
 
                 else:
                     # recurse
@@ -129,7 +140,7 @@ def download_image(
 
     print("GET", url)
     try:
-        resp = requests.get(url, timeout=2)
+        resp = requests.get(url, timeout=5)
     except requests.exceptions.ReadTimeout as err:
         print(f"WARNING: received {err!r} while loading {url!r}")
         return None
