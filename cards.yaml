@@ -19,7 +19,7 @@ United States:
         path: img/United States/American Express/Business/Business-Green.png
       Business Platinum:
         img: https://u.cubeupload.com/ccbackground/amexbizplat.png
-        error: true
+        path: img/United States/American Express/Business/Business-Platinum.png
       Plum:
         img: https://u.cubeupload.com/ccbackground/amexplum.png
         path: img/United States/American Express/Business/Plum.png
@@ -46,10 +46,10 @@ United States:
         path: img/United States/American Express/Personal/Blue-Sky.png
       Blue Cash Everyday:
         img: https://u.cubeupload.com/ccbackground/amexbluecash.png
-        error: true
+        path: img/United States/American Express/Personal/Blue-Cash-Everyday.png
       Blue Cash Preferred:
         img: https://u.cubeupload.com/aiggnhlnous/4.png
-        error: true
+        path: img/United States/American Express/Personal/Blue-Cash-Preferred.png
       Morgan Stanley:
         img: https://u.cubeupload.com/ccbackground/amexmorganstanley.png
         path: img/United States/American Express/Personal/Morgan-Stanley.png
@@ -68,10 +68,10 @@ United States:
         path: img/United States/American Express/Personal/Hilton-Honors.png
       Hilton Honors Surpass:
         img: https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png
-        error: true
+        path: img/United States/American Express/Personal/Hilton-Honors-Surpass.png
       Hilton Honors Aspire old:
         img: https://u.cubeupload.com/ccbackground/amexhiltonhonors.png
-        error: true
+        path: img/United States/American Express/Personal/Hilton-Honors-Aspire-old.png
       Hilton Honors Aspire 2023:
         img: https://asset-cdn.uscardforum.com/optimized/3X/e/d/ed13ad2506323888d57556347ef865ef755ebddc_2_1380x870.jpeg
         tags: jpeg
@@ -79,7 +79,7 @@ United States:
       Centurion:
         img: https://u.cubeupload.com/ccbackground/973C68E833994E2784CD.jpeg
         tags: jpeg
-        error: true
+        path: img/United States/American Express/Personal/Centurion.jpeg
       Centurion 2:
         img: https://d1do1axor6p0u1.cloudfront.net/optimized/3X/a/8/a89a333298f7916135e35e719c1a0e48ad9f437c_2_1380x870.jpeg
         tags: jpeg
@@ -92,13 +92,13 @@ United States:
         path: img/United States/American Express/Personal/Marriott-Bonvoy.png
       Marriott Bonvoy Brilliant:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png
-        error: true
+        path: img/United States/American Express/Personal/Marriott-Bonvoy-Brilliant.png
       Platinum:
         img: https://u.cubeupload.com/ccbackground/amexplat.png
         path: img/United States/American Express/Personal/Platinum.png
       Platinum x Kehinde Wiley:
         img: https://u.cubeupload.com/cubelin/AmexPlatKehindeWiley.png
-        error: true
+        path: img/United States/American Express/Personal/Platinum-x-Kehinde-Wiley.png
       Platinum Pre 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/d/d0527d9fe0be0dd1525b4f3fdb6deee4fbb69262.jpeg
         tags: lowres
@@ -149,16 +149,16 @@ United States:
         path: img/United States/Bank of America/Cash Rewards/Cash-Rewards.png
       Cash Rewards 2020 Mastercard:
         img: https://u.cubeupload.com/ccbackground/boacashrewards2020.png
-        error: true
+        path: img/United States/Bank of America/Cash Rewards/Cash-Rewards-2020-Mastercard.png
       Cash Rewards 2020 Visa:
         img: https://u.cubeupload.com/ccbackground/efboacashrewards2020.png
-        error: true
+        path: img/United States/Bank of America/Cash Rewards/Cash-Rewards-2020-Visa.png
       UCI:
         img: https://u.cubeupload.com/ccbackground/boauci.png
-        error: true
+        path: img/United States/Bank of America/Cash Rewards/UCI.png
       University of Michigan:
         img: https://u.cubeupload.com/waleyz/2.png
-        error: true
+        path: img/United States/Bank of America/Cash Rewards/University-of-Michigan.png
       WWF:
         img: https://u.cubeupload.com/ccbackground/boa123wwf.jpg
         tags: jpeg
@@ -235,36 +235,36 @@ United States:
     Debit Cards:
       Debit Card:
         img: https://u.cubeupload.com/ccbackground/chasedebit.png
-        error: true
+        path: img/United States/Chase/Debit Cards/Debit-Card.png
       Disney Midnight:
         img: https://u.cubeupload.com/ccbackground/chasedisneymidnightd.png
-        error: true
+        path: img/United States/Chase/Debit Cards/Disney-Midnight.png
       Frozen:
         img: https://u.cubeupload.com/ccbackground/chasedisneyfrozen.png
-        error: true
+        path: img/United States/Chase/Debit Cards/Frozen.png
       Private Client:
         img: https://u.cubeupload.com/ccbackground/chaseprivateclient.png
-        error: true
+        path: img/United States/Chase/Debit Cards/Private-Client.png
       Star Wars:
         img: https://u.cubeupload.com/ccbackground/chasestarwarsdebit.png
-        error: true
+        path: img/United States/Chase/Debit Cards/Star-Wars.png
     Business Cards:
       Ink Cash old:
         img: https://u.cubeupload.com/ccbackground/chaseinkcash.png
-        error: true
+        path: img/United States/Chase/Business Cards/Ink-Cash-old.png
       Ink Cash:
         img: https://u.cubeupload.com/cubelin/ChaseInkCash.png
-        error: true
+        path: img/United States/Chase/Business Cards/Ink-Cash.png
       Ink Preferred:
         img: https://u.cubeupload.com/ccbackground/chaseinkpreferred.png
-        error: true
+        path: img/United States/Chase/Business Cards/Ink-Preferred.png
       Ink Unlimited old:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/7/74e69ad2cfef3fc4e1e4b7b5a49128dbc2a208c3.jpeg
         tags: lowres
         path: img/United States/Chase/Business Cards/Ink-Unlimited-old.jpeg
       Ink Unlimited:
         img: https://u.cubeupload.com/cubelin/CIU.png
-        error: true
+        path: img/United States/Chase/Business Cards/Ink-Unlimited.png
       ink premier:
         img: https://asset-cdn.uscardforum.com/optimized/3X/2/9/29d7117dfe8d3640c67cc79191cde0fafd0b0c3d_2_1380x870.jpeg
         tags: jpeg
@@ -276,7 +276,7 @@ United States:
     Personal Credi Cards:
       Amazon Prime:
         img: https://u.cubeupload.com/ccbackground/chaseamazonprime.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/Amazon-Prime.png
       Amazon Prime (Whole Foods):
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png
         tags: lowres
@@ -295,10 +295,10 @@ United States:
         path: img/United States/Chase/Personal Credi Cards/Ritz-Carlton.png
       Sapphire Preferred 2020:
         img: https://u.cubeupload.com/ccbackground/chasesapphirepreferr.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/Sapphire-Preferred-2020.png
       Sapphire Preferred:
         img: https://u.cubeupload.com/ccbackground/738chasesapphirepreferr.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/Sapphire-Preferred.png
       Sapphire Reserve:
         img: https://u.cubeupload.com/ccbackground/chasesapphirereserve.png
         path: img/United States/Chase/Personal Credi Cards/Sapphire-Reserve.png
@@ -311,16 +311,16 @@ United States:
         path: img/United States/Chase/Personal Credi Cards/IHG-One-Rewards-Select-(old).png
       IHG One Rewards Premier:
         img: https://u.cubeupload.com/waleyz/3.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/IHG-One-Rewards-Premier.png
       Marriott Bonvoy Bold:
         img: https://u.cubeupload.com/ccbackground/chasemarriottbonvoyb.png
         path: img/United States/Chase/Personal Credi Cards/Marriott-Bonvoy-Bold.png
       Marriott Bonvoy Boundless old:
         img: https://u.cubeupload.com/ccbackground/599chasemarriottbonvoyb.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/Marriott-Bonvoy-Boundless-old.png
       Marriott Bonvoy Boundless 2023:
         img: https://u.cubeupload.com/waleyz/1.png
-        error: true
+        path: img/United States/Chase/Personal Credi Cards/Marriott-Bonvoy-Boundless-2023.png
       Southwest Plus:
         img: https://u.cubeupload.com/ccbackground/d35chasesouthwestrapidr.png
         path: img/United States/Chase/Personal Credi Cards/Southwest-Plus.png
@@ -355,7 +355,7 @@ United States:
     Debit Cards:
       Citigold Debit:
         img: https://u.cubeupload.com/ccbackground/citigold.png
-        error: true
+        path: img/United States/Citi/Debit Cards/Citigold-Debit.png
       Citigold Private Client:
         img: https://asset-cdn.uscardforum.com/optimized/3X/0/8/08a9edad7f4a76356500b73955bdc2e8c59299ad_2_1380x870.jpeg
         tags: jpeg
@@ -374,7 +374,7 @@ United States:
         path: img/United States/Citi/Credit Cards/AAdvantage-Platinum-Select.jpg
       CitiBusiness AAdvantage Platinum Select:
         img: https://u.cubeupload.com/karlsino/6.png
-        error: true
+        path: img/United States/Citi/Credit Cards/CitiBusiness-AAdvantage-Platinum-Select.png
       Dividend:
         img: https://u.cubeupload.com/ccbackground/citidividend.png
         path: img/United States/Citi/Credit Cards/Dividend.png
@@ -387,10 +387,10 @@ United States:
         path: img/United States/Citi/Credit Cards/Double-Cash.png
       Premier Pre 2021:
         img: https://u.cubeupload.com/ccbackground/citipremier.png
-        error: true
+        path: img/United States/Citi/Credit Cards/Premier-Pre-2021.png
       Premier:
         img: https://u.cubeupload.com/ccbackground/d66citipremier.png
-        error: true
+        path: img/United States/Citi/Credit Cards/Premier.png
       Prestige:
       Aeroplan Reserve:
         img: https://u.cubeupload.com/colderplay/cardBackgroundCombin.png
@@ -398,7 +398,7 @@ United States:
         path: img/United States/Citi/Credit Cards/Aeroplan-Reserve.png
       Rewards+:
         img: https://u.cubeupload.com/ccbackground/citirewardsplus.png
-        error: true
+        path: img/United States/Citi/Credit Cards/Rewards+.png
       Thank You Preferred:
         img: https://u.cubeupload.com/ccbackground/citithankyoupreferre.jpg
         path: img/United States/Citi/Credit Cards/Thank-You-Preferred.jpg
@@ -406,29 +406,29 @@ United States:
     it Standard Designs:
       Rose Quartz:
         img: https://u.cubeupload.com/ccbackground/discoveritpink.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Rose-Quartz.png
       Ocean:
         img: https://u.cubeupload.com/ccbackground/discoveritdefault.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Ocean.png
       Iridescent:
         img: https://u.cubeupload.com/ccbackground/discoveritiridescent.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Iridescent.png
       Blue:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/a/a58ffbd46ceaaa9901155bdd3dcf0df38f91536d.jpeg
         tags: lowres
         path: img/United States/Discover/it Standard Designs/Blue.jpeg
       Pride:
         img: https://u.cubeupload.com/ccbackground/discoverpride.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Pride.png
       Garnet:
         img: https://u.cubeupload.com/ccbackground/discoveritgarnet.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Garnet.png
       Mountain:
         img: https://u.cubeupload.com/ccbackground/discoveritmountain.png
-        error: true
+        path: img/United States/Discover/it Standard Designs/Mountain.png
       City:
         img: https://u.cubeupload.com/ccbackground/17619F418F3F406E8D8A.jpg
-        error: true
+        path: img/United States/Discover/it Standard Designs/City.jpg
     Other Designs:
       wolf:
         img: https://u.cubeupload.com/ccbackground/discoverwolf.jpg
@@ -476,10 +476,10 @@ United States:
       path: img/United States/HSBC/Elite.jpeg
     Premier Debit:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierdebit.png
-      error: true
+      path: img/United States/HSBC/Premier-Debit.png
     Premier Everyday Global Debit:
       img: https://u.cubeupload.com/uscreditcardstrategy/hsbcsg.png
-      error: true
+      path: img/United States/HSBC/Premier-Everyday-Global-Debit.png
     Premier World:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierworld.png
       path: img/United States/HSBC/Premier-World.png
@@ -501,10 +501,10 @@ United States:
       path: img/United States/Penfed/Penfed-Power-Cash.png
     Penfed Pathfinder:
       img: https://u.cubeupload.com/ccbackground/penfedpathfinder.png
-      error: true
+      path: img/United States/Penfed/Penfed-Pathfinder.png
     Penfed Debit:
       img: https://u.cubeupload.com/ccbackground/penfeddebit.png
-      error: true
+      path: img/United States/Penfed/Penfed-Debit.png
   Synchrony:
     Banana Republic:
       img: https://u.cubeupload.com/ccbackground/synchonybananarepubl.png
