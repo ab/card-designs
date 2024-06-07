@@ -14,6 +14,7 @@ United States:
         img: https://u.cubeupload.com/ccbackground/amexbusinessgreen.png
       Business Platinum:
         img: https://u.cubeupload.com/ccbackground/amexbizplat.png
+        error: true
       Plum:
         img: https://u.cubeupload.com/ccbackground/amexplum.png
       Additional Card:
@@ -33,8 +34,10 @@ United States:
         img: https://u.cubeupload.com/ccbackground/amexbluesky.png
       Blue Cash Everyday:
         img: https://u.cubeupload.com/ccbackground/amexbluecash.png
+        error: true
       Blue Cash Preferred:
         img: https://u.cubeupload.com/aiggnhlnous/4.png
+        error: true
       Morgan Stanley:
         img: https://u.cubeupload.com/ccbackground/amexmorganstanley.png
       Every Day:
@@ -48,14 +51,17 @@ United States:
         img: https://asset-cdn.uscardforum.com/optimized/3X/9/2/929cd2195ff608e1ad1e02f7f26afcfb1687a957_2_1380x870.png
       Hilton Honors Surpass:
         img: https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png
+        error: true
       Hilton Honors Aspire old:
         img: https://u.cubeupload.com/ccbackground/amexhiltonhonors.png
+        error: true
       Hilton Honors Aspire 2023:
         img: https://asset-cdn.uscardforum.com/optimized/3X/e/d/ed13ad2506323888d57556347ef865ef755ebddc_2_1380x870.jpeg
         tags: jpeg
       Centurion:
         img: https://u.cubeupload.com/ccbackground/973C68E833994E2784CD.jpeg
         tags: jpeg
+        error: true
       Centurion 2:
         img: https://d1do1axor6p0u1.cloudfront.net/optimized/3X/a/8/a89a333298f7916135e35e719c1a0e48ad9f437c_2_1380x870.jpeg
         tags: jpeg
@@ -65,10 +71,12 @@ United States:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoy.png
       Marriott Bonvoy Brilliant:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png
+        error: true
       Platinum:
         img: https://u.cubeupload.com/ccbackground/amexplat.png
       Platinum x Kehinde Wiley:
         img: https://u.cubeupload.com/cubelin/AmexPlatKehindeWiley.png
+        error: true
       Platinum Pre 2020:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/d/d0527d9fe0be0dd1525b4f3fdb6deee4fbb69262.jpeg
         tags: lowres
@@ -106,12 +114,16 @@ United States:
         img: https://u.cubeupload.com/ccbackground/boacashrewards.png
       Cash Rewards 2020 Mastercard:
         img: https://u.cubeupload.com/ccbackground/boacashrewards2020.png
+        error: true
       Cash Rewards 2020 Visa:
         img: https://u.cubeupload.com/ccbackground/efboacashrewards2020.png
+        error: true
       UCI:
         img: https://u.cubeupload.com/ccbackground/boauci.png
+        error: true
       University of Michigan:
         img: https://u.cubeupload.com/waleyz/2.png
+        error: true
       WWF:
         img: https://u.cubeupload.com/ccbackground/boa123wwf.jpg
         tags: jpeg
@@ -167,26 +179,35 @@ United States:
     Debit Cards:
       Debit Card:
         img: https://u.cubeupload.com/ccbackground/chasedebit.png
+        error: true
       Disney Midnight:
         img: https://u.cubeupload.com/ccbackground/chasedisneymidnightd.png
+        error: true
       Frozen:
         img: https://u.cubeupload.com/ccbackground/chasedisneyfrozen.png
+        error: true
       Private Client:
         img: https://u.cubeupload.com/ccbackground/chaseprivateclient.png
+        error: true
       Star Wars:
         img: https://u.cubeupload.com/ccbackground/chasestarwarsdebit.png
+        error: true
     Business Cards:
       Ink Cash old:
         img: https://u.cubeupload.com/ccbackground/chaseinkcash.png
+        error: true
       Ink Cash:
         img: https://u.cubeupload.com/cubelin/ChaseInkCash.png
+        error: true
       Ink Preferred:
         img: https://u.cubeupload.com/ccbackground/chaseinkpreferred.png
+        error: true
       Ink Unlimited old:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/7/74e69ad2cfef3fc4e1e4b7b5a49128dbc2a208c3.jpeg
         tags: lowres
       Ink Unlimited:
         img: https://u.cubeupload.com/cubelin/CIU.png
+        error: true
       ink premier:
         img: https://asset-cdn.uscardforum.com/optimized/3X/2/9/29d7117dfe8d3640c67cc79191cde0fafd0b0c3d_2_1380x870.jpeg
         tags: jpeg
@@ -196,6 +217,7 @@ United States:
     Personal Credi Cards:
       Amazon Prime:
         img: https://u.cubeupload.com/ccbackground/chaseamazonprime.png
+        error: true
       Amazon Prime (Whole Foods):
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png
         tags: lowres
@@ -209,8 +231,10 @@ United States:
         img: https://u.cubeupload.com/ccbackground/chaseritzcarlton.png
       Sapphire Preferred 2020:
         img: https://u.cubeupload.com/ccbackground/chasesapphirepreferr.png
+        error: true
       Sapphire Preferred:
         img: https://u.cubeupload.com/ccbackground/738chasesapphirepreferr.png
+        error: true
       Sapphire Reserve:
         img: https://u.cubeupload.com/ccbackground/chasesapphirereserve.png
       IHG Gold:
@@ -220,12 +244,15 @@ United States:
         tags: lowres
       IHG One Rewards Premier:
         img: https://u.cubeupload.com/waleyz/3.png
+        error: true
       Marriott Bonvoy Bold:
         img: https://u.cubeupload.com/ccbackground/chasemarriottbonvoyb.png
       Marriott Bonvoy Boundless old:
         img: https://u.cubeupload.com/ccbackground/599chasemarriottbonvoyb.png
+        error: true
       Marriott Bonvoy Boundless 2023:
         img: https://u.cubeupload.com/waleyz/1.png
+        error: true
       Southwest Plus:
         img: https://u.cubeupload.com/ccbackground/d35chasesouthwestrapidr.png
       Southwest Priority:
@@ -251,6 +278,7 @@ United States:
     Debit Cards:
       Citigold Debit:
         img: https://u.cubeupload.com/ccbackground/citigold.png
+        error: true
       Citigold Private Client:
         img: https://asset-cdn.uscardforum.com/optimized/3X/0/8/08a9edad7f4a76356500b73955bdc2e8c59299ad_2_1380x870.jpeg
         tags: jpeg
@@ -265,6 +293,7 @@ United States:
         img: https://u.cubeupload.com/ccbackground/citiaadvantageplatin.jpg
       CitiBusiness AAdvantage Platinum Select:
         img: https://u.cubeupload.com/karlsino/6.png
+        error: true
       Dividend:
         img: https://u.cubeupload.com/ccbackground/citidividend.png
       Costco Anywhere:
@@ -274,35 +303,45 @@ United States:
         img: https://u.cubeupload.com/ccbackground/citidoublecash.png
       Premier Pre 2021:
         img: https://u.cubeupload.com/ccbackground/citipremier.png
+        error: true
       Premier:
         img: https://u.cubeupload.com/ccbackground/d66citipremier.png
+        error: true
       Prestige:
       Aeroplan Reserve:
         img: https://u.cubeupload.com/colderplay/cardBackgroundCombin.png
         tags: lowres
       Rewards+:
         img: https://u.cubeupload.com/ccbackground/citirewardsplus.png
+        error: true
       Thank You Preferred:
         img: https://u.cubeupload.com/ccbackground/citithankyoupreferre.jpg
   Discover:
     it Standard Designs:
       Rose Quartz:
         img: https://u.cubeupload.com/ccbackground/discoveritpink.png
+        error: true
       Ocean:
         img: https://u.cubeupload.com/ccbackground/discoveritdefault.png
+        error: true
       Iridescent:
         img: https://u.cubeupload.com/ccbackground/discoveritiridescent.png
+        error: true
       Blue:
         img: https://forum.uscreditcardguide.com/uploads/default/original/2X/a/a58ffbd46ceaaa9901155bdd3dcf0df38f91536d.jpeg
         tags: lowres
       Pride:
         img: https://u.cubeupload.com/ccbackground/discoverpride.png
+        error: true
       Garnet:
         img: https://u.cubeupload.com/ccbackground/discoveritgarnet.png
+        error: true
       Mountain:
         img: https://u.cubeupload.com/ccbackground/discoveritmountain.png
+        error: true
       City:
         img: https://u.cubeupload.com/ccbackground/17619F418F3F406E8D8A.jpg
+        error: true
     Other Designs:
       wolf:
         img: https://u.cubeupload.com/ccbackground/discoverwolf.jpg
@@ -339,8 +378,10 @@ United States:
       tags: jpeg
     Premier Debit:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierdebit.png
+      error: true
     Premier Everyday Global Debit:
       img: https://u.cubeupload.com/uscreditcardstrategy/hsbcsg.png
+      error: true
     Premier World:
       img: https://u.cubeupload.com/ccbackground/hsbcpremierworld.png
     Premier World Elite:
@@ -352,13 +393,16 @@ United States:
     Jade World Elite:
       img: https://forum.uscreditcardguide.com/uploads/default/original/2X/0/04c38416f3b395952fa3a5ef5c186649992f69c5.jpeg
       tags: lowres
+      error: true
   Penfed:
     Penfed Power Cash:
       img: https://u.cubeupload.com/ccbackground/penfedpowercash.png
     Penfed Pathfinder:
       img: https://u.cubeupload.com/ccbackground/penfedpathfinder.png
+      error: true
     Penfed Debit:
       img: https://u.cubeupload.com/ccbackground/penfeddebit.png
+      error: true
   Synchrony:
     Banana Republic:
       img: https://u.cubeupload.com/ccbackground/synchonybananarepubl.png
