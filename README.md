@@ -11,7 +11,8 @@ credit card.
 Contributions of new card images or physical scans are welcome!
 
 
-Open a [pull request](https://github.com/ab/card-designs/pulls) on GitHub or email us at card-designs@googlegroups.com.
+Open a [pull request](https://github.com/ab/card-designs/pulls) on GitHub or
+email us at card-designs@googlegroups.com.
 
 ### Extracting card images from Apple Wallet
 
@@ -20,15 +21,17 @@ Apple Pay Wallet.
 
 Run this script in terminal:
 
-```sh
+```bash
 mkdir ~/Desktop/cards
 files=(~/Library/Passes/Cards/*.pkpass/cardBackgroundCombined@2x.png)
 i=0
 for f in "${files[@]}"; do
     i=$(( i + 1 ))
-    cp $f ~/Desktop/cards/$i.png
+    cp "$f" ~/Desktop/cards/$i.png
 done
 ```
+
+The extracted images will be in the `cards` folder on your desktop.
 
 ### Downloading card images from PayPal
 
@@ -37,9 +40,11 @@ done
 - Right click on the card image
 - Save image as...
 
-The original title should be `image__140.png`. Rename it to something more meaningful.
+The original title should be `image__140.png`. Rename it to something more
+meaningful.
 
-You can also open the image in a new tab to confirm it's the expected card background.
+You can also open the image in a new tab to confirm it's the expected card
+background.
 
 ## Other Collections
 
