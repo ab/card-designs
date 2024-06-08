@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "card-designs"
+version = "0.1.0"
+package-mode = false
+description = ""
+authors = ["Andy Brody <git@abrody.com>"]
+license = "MPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Jinja2 = "^3.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
