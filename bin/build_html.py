@@ -63,7 +63,9 @@ class PageGenerator:
         self.template_dir = template_dir
         self.web_dir = web_dir
 
-        self.jinja_env = Environment(loader=FileSystemLoader(template_dir))
+        self.jinja_env = Environment(
+            loader=FileSystemLoader(template_dir), keep_trailing_newline=True
+        )
 
     def _is_leaf(self, d: dict) -> bool:
         return 'img' in d or 'path' in d
@@ -94,7 +96,7 @@ class PageGenerator:
             if v is None:
                 continue
 
-            indent = "  " * level
+            indent = "  " * (level + 1)
 
             if self._is_leaf(v):
                 card_html = self.render_template(
