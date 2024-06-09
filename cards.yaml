@@ -66,9 +66,11 @@ United States:
       Hilton Honors:
         img: https://asset-cdn.uscardforum.com/optimized/3X/9/2/929cd2195ff608e1ad1e02f7f26afcfb1687a957_2_1380x870.png
         path: img/United States/American Express/Personal/Hilton-Honors.png
-      Hilton Honors Surpass:
+      Hilton Honors Surpass old:
         img: https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png
         path: img/United States/American Express/Personal/Hilton-Honors-Surpass.png
+      Hilton Honors Surpass 2024:
+        img: https://u.cubeupload.com/olaf/amexhiltonsurpass.png
       Hilton Honors Aspire old:
         img: https://u.cubeupload.com/ccbackground/amexhiltonhonors.png
         path: img/United States/American Express/Personal/Hilton-Honors-Aspire-old.png
@@ -90,9 +92,12 @@ United States:
       Marriott Bonvoy:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoy.png
         path: img/United States/American Express/Personal/Marriott-Bonvoy.png
-      Marriott Bonvoy Brilliant:
+      Marriott Bonvoy Brilliant old:
         img: https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png
         path: img/United States/American Express/Personal/Marriott-Bonvoy-Brilliant.png
+      Marriott Bonvoy Brilliant 2024:
+        img: https://asset-cdn.uscardforum.com/original/4X/7/f/2/7f2595e40a739b2140aa8267cb228ba20d039da0.jpeg
+        tags: ["lowres", "jpeg"]
       Platinum:
         img: https://u.cubeupload.com/ccbackground/amexplat.png
         path: img/United States/American Express/Personal/Platinum.png
@@ -281,6 +286,9 @@ United States:
         img: https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png
         tags: lowres
         path: img/United States/Chase/Personal Credi Cards/Amazon-Prime-(Whole-Foods).png
+      Disney:
+        img: https://asset-cdn.uscardforum.com/original/2X/a/a82e789685981015a810b795aaecb8d232d15492.jpeg
+        tags: jpeg
       Freedom:
         img: https://u.cubeupload.com/ccbackground/chasefreedom.png
         path: img/United States/Chase/Personal Credi Cards/Freedom.png
@@ -365,6 +373,9 @@ United States:
         tags: lowres
         path: img/United States/Citi/Debit Cards/Debit.jpeg
     Credit Cards:
+      AAdvantage Executive:
+        img: https://asset-cdn.uscardforum.com/original/3X/d/3/d3fb3ed334c97a187b770c3a27afcbab1a492fe8.jpeg
+        tags: ["lowres"," jpeg"]
       AAdvantage MileUp:
         img: https://u.cubeupload.com/eleboson/citiaamileup.png
         tags: lowres
@@ -556,6 +567,8 @@ United States:
       AOD:
         img: https://u.cubeupload.com/Chekochtra/B3C59DD68D3F4B90A334.png
         path: img/United States/Others/Debit Cards/AOD.png
+      Apple Cash:
+        img: https://u.cubeupload.com/FrtHone/AppleCash.png
       Aspiration:
         img: https://u.cubeupload.com/ccbackground/aspirationdebit.png
         path: img/United States/Others/Debit Cards/Aspiration.png
@@ -569,6 +582,9 @@ United States:
       Cash App (black):
         img: https://u.cubeupload.com/ccbackground/cashappdebit.png
         path: img/United States/Others/Debit Cards/Cash-App-(black).png
+      Center Parc Credit Union:
+        img: https://u.cubeupload.com/cubelin/CenterParcCreditUnio.png
+        tags: lowres
       Chales Schwab:
         img: https://u.cubeupload.com/ccbackground/schwabdebit.png
         path: img/United States/Others/Debit Cards/Chales-Schwab.png
@@ -635,6 +651,8 @@ United States:
       Passbook:
         img: https://u.cubeupload.com/uscreditcardstrategy/Passbook.png
         path: img/United States/Others/Debit Cards/Passbook.png
+      PayPal Debit Mastercard (The Bancorp):
+        img: https://u.cubeupload.com/FrtHone/PayPalDebitMastercar.png
       PNC LGBT+:
         img: https://u.cubeupload.com/ccbackground/pnclgbtdebit.png
         path: img/United States/Others/Debit Cards/PNC-LGBT+.png
@@ -709,6 +727,12 @@ United States:
         Brex Card:
           img: https://u.cubeupload.com/ccbackground/brex.png
           path: img/United States/Others/Credit Cards/Others/Brex-Card.png
+        Brex Metal Card:
+          img: https://u.cubeupload.com/cubelin/Brex.jpeg
+          tags: ["lowres", "jpeg"]
+        Brex Cash Management:
+          img: https://u.cubeupload.com/cubelin/Brex2.jpeg
+          tags: ["lowres", "jpeg"]
         Deserve Edu:
           img: https://u.cubeupload.com/ccbackground/deserve.png
           path: img/United States/Others/Credit Cards/Others/Deserve-Edu.png
@@ -801,6 +825,13 @@ Hong Kong:
       HSBC:
         img: https://u.cubeupload.com/ccbackground/HSBCHK.png
         path: img/Hong Kong/Others/Debit Cards/HSBC.png
+      "中國銀行(香港): Dual Currency UnionPay BOC Card":
+        img: https://u.cubeupload.com/FrtHone/DualCurrencyUnionPay.png
+        slug: Bank-of-China-HK-Dual-Currency-UnionPay
+      "Livi Bank: livi Debit Mastercard":
+        img: https://u.cubeupload.com/FrtHone/liviDebitMastercard.png)
+      "ZA Bank: ZA Card":
+        img: https://u.cubeupload.com/FrtHone/ZACard.png
 UK:
   Monzo Debit:
     img: https://u.cubeupload.com/ccbackground/ukmonzo.png
@@ -818,6 +849,9 @@ Singapore:
     Premier Everyday Global Debit:
       img: https://u.cubeupload.com/ccbackground/hsbcpremiersgdebit.png
       path: img/Singapore/HSBC/Premier-Everyday-Global-Debit.png
+  OCBC Bank:
+    OCBC Debit Card:
+      img: https://u.cubeupload.com/FrtHone/OCBCDebitCard.png
 Netherlands:
   ING Betaalpas Debit:
     img: https://u.cubeupload.com/ccbackground/ingbetaalpus.png
@@ -873,18 +907,57 @@ China:
     img: https://asset-cdn.uscardforum.com/original/3X/d/2/d2cf715c17d10b1e1fc55530914be420226905de.jpeg
     tags: lowres
     path: img/China/CMB-Premier-Debit-UnionPay.jpeg
-  CMB 招商银行 Platinum Debit UnionPay:
-    slug: CMB-Platinum-Debit-UnionPay
-    img: https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg
-    tags: lowres
-    path: img/China/CMB-Platinum-Debit-UnionPay.jpeg
-  CMB 招商银行 Young Card UnionPay:
-    slug: CMB-Young-Card-UnionPay
-    img: https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg
-    tags: jpeg
-    path: img/China/CMB-Young-Card-UnionPay.jpeg
-  CMB 招商银行 皮卡丘 UnionPay:
-    slug: CMB-Pikachu-UnionPay
-    img: https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg
-    tags: jpeg
-    path: img/China/CMB-Pikachu-UnionPay.jpeg
+  CMB 招商银行:
+    CMB 招商银行 Platinum Debit UnionPay:
+      slug: CMB-Platinum-Debit-UnionPay
+      img: https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg
+      tags: lowres
+      path: img/China/CMB 招商银行/CMB-Platinum-Debit-UnionPay.jpeg
+    CMB 招商银行 Young Card UnionPay:
+      slug: CMB-Young-Card-UnionPay
+      img: https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg
+      tags: jpeg
+      path: img/China/CMB 招商银行/CMB-Young-Card-UnionPay.jpeg
+    CMB 招商银行 皮卡丘 UnionPay:
+      slug: CMB-Pikachu-UnionPay
+      img: https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg
+      tags: jpeg
+      path: img/China/CMB 招商银行/CMB-Pikachu-UnionPay.jpeg
+    一卡通（金卡IC卡）:
+      img: https://u.cubeupload.com/FrtHone/IC.png
+      slug: IC-Gold-Card
+    BILI联名花嫁卡:
+      img: https://asset-cdn.uscardforum.com/original/3X/c/b/cbc68ec56a50bc1cbcc8f8d20d4a04cdc75cd74a.jpeg
+      slug: Bili-Co-Branded
+      tags: jpeg
+    京东闪付:
+      img: https://u.cubeupload.com/FrtHone/65d5d4.png
+    工商银行:
+      工银灵通卡:
+        img: https://u.cubeupload.com/FrtHone/ea4424.png
+    中国银行:
+        长城信用卡 默认卡面:
+          img: https://u.cubeupload.com/FrtHone/6966d2.png
+        长城借记卡:
+          img: https://u.cubeupload.com/FrtHone/5d0f92.png
+    中国农业银行:
+        悠然白金卡蓝色版:
+          img: https://u.cubeupload.com/FrtHone/690005.png
+        金穗借记卡普卡:
+          img: https://u.cubeupload.com/FrtHone/1fbd91.png
+    中国建设银行:
+        龙卡通（储蓄卡）:
+          img: https://u.cubeupload.com/FrtHone/4c3b51.png
+        龙卡JOY信用卡:
+          img: https://u.cubeupload.com/FrtHone/JOY.png
+    交通银行:
+        太平洋借记卡:
+          img: https://u.cubeupload.com/FrtHone/38525c.png
+    中国邮政储蓄银行:
+        U+卡:
+          img: https://u.cubeupload.com/FrtHone/U.png
+    中信银行:
+        万豪金龙年特别版:
+          img: https://asset-cdn.uscardforum.com/original/3X/2/d/2d15b550cd11b62f84ab10c665a24d0b6ff9aa3d.jpeg
+          tags: jpeg
+

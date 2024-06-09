@@ -2,7 +2,7 @@ Copy of Credit Card Card Backgrounds
 
 Original doc: https://dynalist.io/d/ldKY6rbMR3LPnWz4fTvf_HCh
 
-H/T to kuku, wall, yu22hao, tasdf, YZLonlines, rickylau77, Jayazhe, imjumbo, Ringo, zlzy, divinebaboon, eleboson, physixfan, alvin1009, antonius Flandria, ju7Um2rnW0K, Chekochtra, Mr.DaDong, Jiiimmmy, zlzy, Ratoo, wzj, AstroX, bb3696, FearTheZ, RichardMannion, slashuslashnovelty, crywolfer, MaxRewards, 芒硝🙊, Neon, zzr215, waleyz, aiggnhlnous, 神经娃, aqua, shareinfo888, esp, Kel7. 0.6cpp, darrrrrr, ZeroClover, Liam1, Raymond_0817 for uploading card faces.
+H/T to kuku, wall, yu22hao, tasdf, YZLonlines, rickylau77, Jayazhe, imjumbo, Ringo, zlzy, divinebaboon, eleboson, physixfan, alvin1009, antonius Flandria, ju7Um2rnW0K, Chekochtra, Mr.DaDong, Jiiimmmy, zlzy, Ratoo, wzj, AstroX, bb3696, FearTheZ, RichardMannion, slashuslashnovelty, crywolfer, MaxRewards, 芒硝🙊, Neon, zzr215, waleyz, aiggnhlnous, 神经娃, aqua, shareinfo888, esp, Kel7. 0.6cpp, darrrrrr, ZeroClover, Liam1, Raymond_0817, FrtHone, olaf, haaland, TadokoroKouji, maples.dollar, FrankJR for uploading card faces.
 low res: means a low res version from Paypal, needs a high res version from Apple Pay.
 jpeg: the file is jpeg format, needs a png format version.
     United States
@@ -27,7 +27,7 @@ jpeg: the file is jpeg format, needs a png format version.
                 Delta Reserve
                 Blue
                 ![Blue Cash Everyday](https://u.cubeupload.com/ccbackground/amexbluecash.png)
-                ![Blue Cash Preferred](https://u.cubeupload.com/aiggnhlnous/4.png)
+                ![Blue Cash Preferred](https://u.cubeupload.com/aiggnhlnous/4.png) 
                 Cash Magnet
                 Schwab Investor
                 ![Morgan Stanley](https://u.cubeupload.com/ccbackground/amexmorganstanley.png)
@@ -35,14 +35,16 @@ jpeg: the file is jpeg format, needs a png format version.
                 ![Every Day Preferred](https://u.cubeupload.com/eleboson/aeedp.png) low res
                 ![Hilton Honors old](https://u.cubeupload.com/ccbackground/amexhiltonnofee.png)
                 ![Hilton Honors](https://asset-cdn.uscardforum.com/optimized/3X/9/2/929cd2195ff608e1ad1e02f7f26afcfb1687a957_2_1380x870.png)
-                ![Hilton Honors Surpass](https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png)
+                ![Hilton Honors Surpass old](https://u.cubeupload.com/ccbackground/amexhiltonsurpass.png)
+                ![Hilton Honors Surpass 2024](https://u.cubeupload.com/olaf/amexhiltonsurpass.png)
                 ![Hilton Honors Aspire old](https://u.cubeupload.com/ccbackground/amexhiltonhonors.png)
                 ![Hilton Honors Aspire 2023](https://asset-cdn.uscardforum.com/optimized/3X/e/d/ed13ad2506323888d57556347ef865ef755ebddc_2_1380x870.jpeg) jpeg
                 ![Centurion](https://u.cubeupload.com/ccbackground/973C68E833994E2784CD.jpeg) jpeg
                 ![Centurion 2](https://d1do1axor6p0u1.cloudfront.net/optimized/3X/a/8/a89a333298f7916135e35e719c1a0e48ad9f437c_2_1380x870.jpeg) jpeg
                 ![Green](https://u.cubeupload.com/ccbackground/amexgreen.png)
                 ![Marriott Bonvoy](https://u.cubeupload.com/ccbackground/amexmarriottbonvoy.png)
-                ![Marriott Bonvoy Brilliant](https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png)
+                ![Marriott Bonvoy Brilliant old](https://u.cubeupload.com/ccbackground/amexmarriottbonvoybr.png)
+                ![Marriott Bonvoy Brilliant 2024](https://asset-cdn.uscardforum.com/original/4X/7/f/2/7f2595e40a739b2140aa8267cb228ba20d039da0.jpeg) low res jpeg
                 ![Platinum](https://u.cubeupload.com/ccbackground/amexplat.png)
                 ![Platinum x Kehinde Wiley](https://u.cubeupload.com/cubelin/AmexPlatKehindeWiley.png)
                 ![Platinum Pre 2020](https://forum.uscreditcardguide.com/uploads/default/original/2X/d/d0527d9fe0be0dd1525b4f3fdb6deee4fbb69262.jpeg) low res
@@ -60,25 +62,26 @@ jpeg: the file is jpeg format, needs a png format version.
                 ![BoA University of Michigan Alumni Debit](https://u.cubeupload.com/ccbackground/boauniversityofmichi.png)
                 ![BoA Brandeis Alumni Association](https://u.cubeupload.com/eleboson/boadebitbrandeis.png) low res
                 ![Bank of America Cal Association](https://asset-cdn.uscardforum.com/original/3X/b/0/b002f2008eb6e7a6846872241ae91a73778273f3.png) low res
-                ![Columbia?](https://u.cubeupload.com/aiggnhlnous/2.png)
-            ![Alaska Airlines](https://u.cubeupload.com/ccbackground/boaalaska.jpg)
-            ![Better Balance Rewards](https://u.cubeupload.com/ccbackground/boabetterbalancerewa.png)
-            ![BankAmericard](https://u.cubeupload.com/ccbackground/bankamericard.png)
-            ![Custom Cash Rewards (Mastercard)](https://u.cubeupload.com/ccbackground/boacustomizedcashmc.png)
-            ![Custom Cash Rewards (Visa)](https://u.cubeupload.com/ccbackground/boacustomizedcashvis.png)
-            ![Cash Rewards](https://u.cubeupload.com/ccbackground/boacashrewards.png)
-                ![Cash Rewards 2020 Mastercard](https://u.cubeupload.com/ccbackground/boacashrewards2020.png)
-                ![Cash Rewards 2020 Visa](https://u.cubeupload.com/ccbackground/efboacashrewards2020.png)
-                ![UCI](https://u.cubeupload.com/ccbackground/boauci.png)
-                ![University of Michigan](https://u.cubeupload.com/waleyz/2.png)
-                ![WWF](https://u.cubeupload.com/ccbackground/boa123wwf.jpg) jpeg
-                ![Susan G Komen](https://u.cubeupload.com/ccbackground/boa123susankomen.jpg) jpeg
-                ![U.S. Pride](https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/YTVmOThiNWYtYzI1OC00MmM1LWI3MDgtNDY0MDdkODA1NWQ5/image__140.png) (low res)
-                ![MLB](https://u.cubeupload.com/ccbackground/boamlb.png)
-            ![Premium Rewards](https://u.cubeupload.com/ccbackground/boapremiumrewards.png)
-            ![Premium Rewards Elite](https://asset-cdn.uscardforum.com/optimized/3X/7/2/727cb6b3cbfca0847f5b155619d8bb82f66c2405_2_1380x870.png) low res
-            ![Premium Rewards 2020](https://forum.uscreditcardguide.com/uploads/default/original/2X/7/7602d278ed04cd136fd5fa3405639ae05596a7ce.jpeg) low res.
-            ![Travel Rewards](https://u.cubeupload.com/ccbackground/boatravelrewardsdebi.png)
+                ![Columbia](https://u.cubeupload.com/aiggnhlnous/2.png)
+            Credit Cards
+                ![Alaska Airlines](https://u.cubeupload.com/ccbackground/boaalaska.jpg)
+                ![Better Balance Rewards](https://u.cubeupload.com/ccbackground/boabetterbalancerewa.png)
+                ![BankAmericard](https://u.cubeupload.com/ccbackground/bankamericard.png)
+                ![Custom Cash Rewards (Mastercard)](https://u.cubeupload.com/ccbackground/boacustomizedcashmc.png)
+                ![Custom Cash Rewards (Visa)](https://u.cubeupload.com/ccbackground/boacustomizedcashvis.png)
+                ![Cash Rewards](https://u.cubeupload.com/ccbackground/boacashrewards.png)
+                    ![Cash Rewards 2020 Mastercard](https://u.cubeupload.com/ccbackground/boacashrewards2020.png)
+                    ![Cash Rewards 2020 Visa](https://u.cubeupload.com/ccbackground/efboacashrewards2020.png)
+                    ![UCI](https://u.cubeupload.com/ccbackground/boauci.png)
+                    ![University of Michigan](https://u.cubeupload.com/waleyz/2.png)
+                    ![WWF](https://u.cubeupload.com/ccbackground/boa123wwf.jpg) jpeg
+                    ![Susan G Komen](https://u.cubeupload.com/ccbackground/boa123susankomen.jpg) jpeg
+                    ![U.S. Pride](https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/YTVmOThiNWYtYzI1OC00MmM1LWI3MDgtNDY0MDdkODA1NWQ5/image__140.png) (low res)
+                    ![MLB](https://u.cubeupload.com/ccbackground/boamlb.png)
+                ![Premium Rewards](https://u.cubeupload.com/ccbackground/boapremiumrewards.png)
+                ![Premium Rewards Elite](https://asset-cdn.uscardforum.com/optimized/3X/7/2/727cb6b3cbfca0847f5b155619d8bb82f66c2405_2_1380x870.png) low res
+                ![Premium Rewards 2020](https://forum.uscreditcardguide.com/uploads/default/original/2X/7/7602d278ed04cd136fd5fa3405639ae05596a7ce.jpeg) low res.
+                ![Travel Rewards](https://u.cubeupload.com/ccbackground/boatravelrewardsdebi.png)
         Barclays
             ![Uber](https://u.cubeupload.com/ccbackground/barclaysuber.png)
             ![Arrival](https://u.cubeupload.com/ccbackground/barclayarrival.png)
@@ -105,7 +108,7 @@ jpeg: the file is jpeg format, needs a png format version.
                 Amazon (not prime)
                 ![Amazon Prime](https://u.cubeupload.com/ccbackground/chaseamazonprime.png)
                 ![Amazon Prime (Whole Foods)](https://pics.paypal.com//00/s/OTY5WDE1MzZYUE5H/p/MTcyODdhYmYtMTQzZS00ZjFiLWE3YzMtNTZlMGNmN2JlZTVh/image__140.png) low res
-                Disney
+                ![Disney](https://asset-cdn.uscardforum.com/original/2X/a/a82e789685981015a810b795aaecb8d232d15492.jpeg)
                 ![Freedom](https://u.cubeupload.com/ccbackground/chasefreedom.png)
                 ![Freedom Flex](https://u.cubeupload.com/ccbackground/chasefreedomflex.png)
                 ![Freedom Unlimited](https://u.cubeupload.com/ccbackground/chasefreedomunlimite.png)
@@ -133,7 +136,7 @@ jpeg: the file is jpeg format, needs a png format version.
                 ![Citigold Debit](https://u.cubeupload.com/ccbackground/citigold.png)
                 ![Citigold Private Client](https://asset-cdn.uscardforum.com/optimized/3X/0/8/08a9edad7f4a76356500b73955bdc2e8c59299ad_2_1380x870.jpeg) jpeg
                 ![Debit](https://forum.uscreditcardguide.com/uploads/default/original/2X/2/23c79bcab8f3ca55434fc6f30fe04e772c886f27.jpeg) low res
-            AAdvantage Executive
+            ![AAdvantage Executive](https://asset-cdn.uscardforum.com/original/3X/d/3/d3fb3ed334c97a187b770c3a27afcbab1a492fe8.jpeg) low res jpeg
             ![AAdvantage MileUp](https://u.cubeupload.com/eleboson/citiaamileup.png) low res
             ![AAdvantage Platinum Select](https://u.cubeupload.com/ccbackground/citiaadvantageplatin.jpg)
             Chairman
@@ -198,6 +201,7 @@ jpeg: the file is jpeg format, needs a png format version.
             ![Verizon](https://u.cubeupload.com/ccbackground/synchronyverizon.png)
         Others
             Debit Cards
+                ![Apple Cash](https://u.cubeupload.com/FrtHone/AppleCash.png)
                 ![Fidelity HSA](https://u.cubeupload.com/aiggnhlnous/1.png)
                 ![Acorns](https://u.cubeupload.com/uscreditcardstrategy/acornsdebit.png)
                 ![Albert](https://u.cubeupload.com/ccbackground/albert.png)
@@ -207,6 +211,7 @@ jpeg: the file is jpeg format, needs a png format version.
                 ![Betterment](https://u.cubeupload.com/ccbackground/bettermentdebit.png)
                 ![Capital One](https://u.cubeupload.com/eleboson/oc1debit.png) low res
                 ![Cash App (black)](https://u.cubeupload.com/ccbackground/cashappdebit.png)
+                ![Center Parc Credit Union Visa® Debit Card](https://u.cubeupload.com/cubelin/CenterParcCreditUnio.png) low res
                 ![Chales Schwab](https://u.cubeupload.com/ccbackground/schwabdebit.png)
                 ![Cheese](https://u.cubeupload.com/ccbackground/cheese.png)
                 ![Chime](https://u.cubeupload.com/ccbackground/chime.png)
@@ -229,6 +234,7 @@ jpeg: the file is jpeg format, needs a png format version.
                 ![Netspend](https://u.cubeupload.com/ccbackground/netspend.png)
                 ![Onjuno](https://u.cubeupload.com/uscreditcardstrategy/Onjunodebit.png)
                 ![Passbook](https://u.cubeupload.com/uscreditcardstrategy/Passbook.png)
+                ![The Bancorp Bank: PayPal Debit Mastercard](https://u.cubeupload.com/FrtHone/PayPalDebitMastercar.png)
                 ![PNC LGBT+](https://u.cubeupload.com/ccbackground/pnclgbtdebit.png)
                 ![PNC University of Michigan Debit](https://u.cubeupload.com/ccbackground/pncuniversityofmichi.png)
                 ![Revolut](https://u.cubeupload.com/ccbackground/revolut.png)
@@ -254,6 +260,8 @@ jpeg: the file is jpeg format, needs a png format version.
             Credit Cards
                 ![AOD Visa Signature](https://forum.uscreditcardguide.com/uploads/default/original/2X/4/4db7385f832aab11a5be406c66f31e70d098247c.png) low res
                 ![Brex Card](https://u.cubeupload.com/ccbackground/brex.png)
+                ![Brex金属卡](https://u.cubeupload.com/cubelin/Brex.jpeg) low res
+                ![Brex预算管理虚拟卡](https://u.cubeupload.com/cubelin/Brex2.jpeg) low res
                 ![Deserve Edu](https://u.cubeupload.com/ccbackground/deserve.png)
                 ![Goldman Sachs Apple Card](https://u.cubeupload.com/ccbackground/applecard.png)
                 JP Morgan Reserve
@@ -290,6 +298,9 @@ jpeg: the file is jpeg format, needs a png format version.
             Debit Cards
                 ![TapNGo](https://u.cubeupload.com/uscreditcardstrategy/tapngo.png)
                 ![HSBC](https://u.cubeupload.com/ccbackground/HSBCHK.png)
+                ![中國銀行(香港)：Dual Currency UnionPay BOC Card](https://u.cubeupload.com/FrtHone/DualCurrencyUnionPay.png)
+                ![Livi Bank: livi Debit Mastercard](https://u.cubeupload.com/FrtHone/liviDebitMastercard.png)
+                ![ZA Bank: ZA Card](https://u.cubeupload.com/FrtHone/ZACard.png)
     UK
         ![Monzo Debit](https://u.cubeupload.com/ccbackground/ukmonzo.png)
         ![Amex British Airways](https://asset-cdn.uscardforum.com/optimized/3X/8/2/826634db56f70764ca7921046068ac5195a71ba1_2_1380x870.jpeg) jpeg
@@ -297,6 +308,7 @@ jpeg: the file is jpeg format, needs a png format version.
     Singapore
         HSBC
             ![Premier Everyday Global Debit](https://u.cubeupload.com/ccbackground/hsbcpremiersgdebit.png)
+        ![OCBC Bank: OCBC Debit Card](https://u.cubeupload.com/FrtHone/OCBCDebitCard.png)
     Netherlands
         ![ING Betaalpas Debit](https://u.cubeupload.com/ccbackground/ingbetaalpus.png)
     Canada
@@ -321,6 +333,28 @@ jpeg: the file is jpeg format, needs a png format version.
         ![Line Pay](https://asset-cdn.uscardforum.com/original/3X/8/c/8c3a085c4b84eb1439637fec34b866fc49d48af5.png) low res
     China
         ![HSBC 汇丰银行 China Premier Debit UnionPay](https://asset-cdn.uscardforum.com/original/3X/d/2/d2cf715c17d10b1e1fc55530914be420226905de.jpeg) low res
-        ![CMB 招商银行 Platinum Debit UnionPay](https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg) low res
-        ![CMB 招商银行 Young Card UnionPay](https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg) jpeg
-        ![CMB 招商银行 皮卡丘 UnionPay](https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg) jpeg
+        招商银行
+            ![CMB 招商银行 Platinum Debit UnionPay](https://asset-cdn.uscardforum.com/original/3X/a/e/aeaddd32b3e41209a441a2452ccee063e37846c2.jpeg) low res
+            ![CMB 招商银行 Young Card UnionPay](https://asset-cdn.uscardforum.com/original/3X/8/0/8061b0c1a08e31dfb41322f4fff88e3a0a597e5e.jpeg) jpeg
+            ![CMB 招商银行 皮卡丘 UnionPay](https://asset-cdn.uscardforum.com/original/3X/a/a/aa5e940c4caf9a374f9e4b0f8b6995772012e856.jpeg) jpeg
+            ![一卡通（金卡IC卡）](https://u.cubeupload.com/FrtHone/IC.png)
+            ![BILI联名花嫁卡](https://asset-cdn.uscardforum.com/original/3X/c/b/cbc68ec56a50bc1cbcc8f8d20d4a04cdc75cd74a.jpeg) jpeg
+        ![京东闪付](https://u.cubeupload.com/FrtHone/65d5d4.png)
+        工商银行
+            ![工银灵通卡](https://u.cubeupload.com/FrtHone/ea4424.png)
+        中国银行
+            ![长城信用卡 默认卡面](https://u.cubeupload.com/FrtHone/6966d2.png)
+            ![长城借记卡](https://u.cubeupload.com/FrtHone/5d0f92.png)
+            ![长城薪享借记卡（金卡）](https://u.cubeupload.com/FrtHone/5d0f92.png)
+        中国农业银行
+            ![悠然白金卡蓝色版](https://u.cubeupload.com/FrtHone/690005.png)
+            ![金穗借记卡普卡](https://u.cubeupload.com/FrtHone/1fbd91.png)
+        中国建设银行
+            ![龙卡通（储蓄卡）](https://u.cubeupload.com/FrtHone/4c3b51.png)
+            ![龙卡JOY信用卡](https://u.cubeupload.com/FrtHone/JOY.png)
+        交通银行
+            ![太平洋借记卡](https://u.cubeupload.com/FrtHone/38525c.png)
+        中国邮政储蓄银行
+            ![U+卡](https://u.cubeupload.com/FrtHone/U.png)
+        中信银行
+            ![万豪金龙年特别版](https://asset-cdn.uscardforum.com/original/3X/2/d/2d15b550cd11b62f84ab10c665a24d0b6ff9aa3d.jpeg)

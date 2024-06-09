@@ -6,6 +6,11 @@ Why? Because it's fun! You can lust after the beautiful design of that card
 you've always wanted. Or admire the fact that one issuer put Pikachu on a
 credit card.
 
+## Credits
+
+Many thanks to chaoxu, kuku, wall, yu22hao, tasdf, YZLonlines, rickylau77, Jayazhe, imjumbo, Ringo, zlzy, divinebaboon, eleboson, physixfan, alvin1009, antonius Flandria, ju7Um2rnW0K, Chekochtra, Mr.DaDong, Jiiimmmy, zlzy, Ratoo, wzj, AstroX, bb3696, FearTheZ, RichardMannion, slashuslashnovelty, crywolfer, MaxRewards, 芒硝🙊, Neon, zzr215, waleyz, aiggnhlnous, 神经娃, aqua, shareinfo888, esp, Kel7. 0.6cpp, darrrrrr, ZeroClover, Liam1, Raymond_0817, FrtHone, olaf, haaland, TadokoroKouji, maples.dollar, FrankJR
+
+
 ## Contributing
 
 Contributions of new card images or physical scans are welcome!
