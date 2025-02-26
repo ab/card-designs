@@ -4,7 +4,7 @@ import logging
 import os
 import re
 import sys
-from contextlib import AbstractContextManager
+from contextlib import chdir
 from pathlib import Path
 from typing import Optional
 
@@ -15,25 +15,6 @@ yaml = YAML()
 
 
 SKIP_ERRORED = False
-
-
-class chdir_ctx(AbstractContextManager):
-    """
-    Non thread-safe context manager to change the current working directory.
-
-    Replace this with contextlib.chdir in Python 3.11+
-    """
-
-    def __init__(self, path):
-        self.path = path
-        self._old_cwd = []
-
-    def __enter__(self):
-        self._old_cwd.append(os.getcwd())
-        os.chdir(self.path)
-
-    def __exit__(self, *excinfo):
-        os.chdir(self._old_cwd.pop())
 
 
 class ColorFormatter(logging.Formatter):
@@ -166,7 +147,7 @@ def read_and_download(yaml_file: str, web_dir: str):
     dl = Downloader()
     try:
         # dl.reformat_to_dict(data=data)
-        with chdir_ctx(web_dir):
+        with chdir(web_dir):
             dl.download_all_images(data=data, path_parts=['img'])
     except KeyboardInterrupt:
         pass

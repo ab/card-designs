@@ -59,6 +59,11 @@ https://fearthez.com/2022/01/23/card-designs/
 Collection by [u/chaoxu](https://www.reddit.com/user/chaoxu/):
 https://dynalist.io/d/ldKY6rbMR3LPnWz4fTvf_HCh
 
+Collection by HarukaKinen:
+
+- https://github.com/HarukaKinen/Cardentify/
+- https://cards.haruka.hk/
+
 ## License
 
 The card images remain copyrighted by the issuers, but we believe that it is
